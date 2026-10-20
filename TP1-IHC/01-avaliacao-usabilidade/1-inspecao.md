@@ -4,16 +4,18 @@
 
 ### Heurísticas de Nielsen
 
-1. Visibilidade do status do sistema: o sistema deve informar ao usuário o que está acontecendo e em que etapa está.
-2. Correspondência entre o sistema e o mundo real: a linguagem e os elementos devem refletir a realidade do usuário.
-3. Controle e liberdade do usuário: o usuário deve poder desfazer ou corrigir ações facilmente.
-4. Consistência e padrões: os elementos e convenções devem ser iguais em diferentes partes da interface.
-5. Prevenção de erros: o design deve reduzir a chance de ações indevidas antes que elas ocorram.
-6. Reconhecimento em vez de memorização: a interface deve facilitar a identificação e o uso, sem exigir que o usuário memorize muito.
-7. Flexibilidade e eficiência de uso: a interface deve atender tanto usuários iniciantes quanto experientes.
-8. Estética e design minimalista: o sistema deve evitar informações irrelevantes que distraiam o usuário.
-9. Auxiliar usuários a reconhecerem, diagnosticarem e recuperarem-se de erros: mensagens devem ser claras e orientar a correção.
-10. Ajuda e documentação: a interface deve oferecer suporte acessível quando o usuário precisar de orientação.
+H1 — Visibilidade do estado do sistema: o sistema mantém o usuário informado sobre o que está acontecendo.
+H2 — Correspondência entre o sistema e o mundo real: uso de linguagem e conceitos familiares ao usuário.
+H3 — Controle e liberdade do usuário: saídas claras para ações feitas por engano (desfazer/refazer).
+H4 — Consistência e padrões: mesmos termos, telas e ações significam a mesma coisa em todo o sistema.
+H5 — Prevenção de erros: um bom projeto evita que o problema ocorra, em vez de só avisar depois.
+H6 — Reconhecimento em vez de memorização: opções e instruções visíveis, sem exigir que o usuário memorize.
+H7 — Flexibilidade e eficiência de uso: atalhos e aceleradores para usuários experientes, sem prejudicar iniciantes.
+H8 — Estética e design minimalista: diálogos sem informação irrelevante ou raramente necessária.
+H9 — Ajudar o usuário a reconhecer, diagnosticar e corrigir erros: mensagens de erro claras, em linguagem simples,
+com solução.
+H10 — Ajuda e documentação: mesmo sendo melhor usar o sistema sem documentação, ela deve estar disponível e ser
+fácil de buscar.
 
 ### Processo de inspeção
 Descrição do processo adotado pela equipe.
