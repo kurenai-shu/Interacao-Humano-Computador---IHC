@@ -46,13 +46,11 @@ fácil de buscar.
 ## Etapa 3 - Discriminação
 [Discriminação](https://app.notion.com/p/3ffe14836b578091b243e2ce2569fe7b?v=d9de14836b5783b1a85b08a22bd2b351)
 
-
-<img height="500" alt="WhatsApp Image 2026-10-19 at 22 04 11" src="https://github.com/user-attachments/assets/3e114b55-50b4-4a6f-be03-8d373563ed0b" />
-
-
 ## Etapa 4 - Relato dos resultados
 [Relato dos resultados](https://app.notion.com/p/2ffe14836b57824996cb810b55985381?v=2c6e14836b5782e3bcf90876ec9f5efe)  
 
-## Ambiente Notion
-[Notion](https://app.notion.com/p/Inspe-o-de-Usabilidade-TP1-3fde14836b5780f8ad03fcc796eda481)
+## Registro da Avaliação
+<img height="250" alt="WhatsApp Image 2026-10-19 at 22 04 11" src="https://github.com/user-attachments/assets/3e114b55-50b4-4a6f-be03-8d373563ed0b" />
+
+
 
