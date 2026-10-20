@@ -28,9 +28,7 @@ fácil de buscar.
 
 ### Processo de inspeção
 Descrição do processo adotado pela equipe.
-### Registros da avaliação (exemplo)
-
-# Inspeção de Usabilidade
+### Registros da avaliação 
 
 # Etapa 1 - Detecção
 - [Detecção - Sergio Roberto ](https://app.notion.com/p/Detec-o-S-rgio-Roberto-3ffe14836b5780109828d3a324d87a76) <br>
