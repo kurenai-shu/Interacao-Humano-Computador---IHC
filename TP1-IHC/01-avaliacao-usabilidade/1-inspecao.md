@@ -50,7 +50,7 @@ fácil de buscar.
 [Relato dos resultados](https://app.notion.com/p/2ffe14836b57824996cb810b55985381?v=2c6e14836b5782e3bcf90876ec9f5efe)  
 
 ## Registro da Avaliação
-<img height="250" alt="WhatsApp Image 2026-10-19 at 22 04 11" src="https://github.com/user-attachments/assets/3e114b55-50b4-4a6f-be03-8d373563ed0b" />
+<img height="350" alt="WhatsApp Image 2026-10-19 at 22 04 11" src="https://github.com/user-attachments/assets/3e114b55-50b4-4a6f-be03-8d373563ed0b" />
 
 
 
