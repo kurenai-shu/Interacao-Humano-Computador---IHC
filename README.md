@@ -1,5 +1,5 @@
 # Avaliação de Sistema - Aliexpress
-Emanuel
+
 
 ## Disciplina: Interação Humano Computador - IHC
 #### Integrantes da equipe: Davi Marques, Guilherme Alencar, Kairlly Magalhães, Sérgio Roberto, Bruno Gomes e Emanuel Queiroz.   
