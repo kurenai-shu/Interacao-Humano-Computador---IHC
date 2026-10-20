@@ -4,27 +4,21 @@
 
 ### Heurísticas de Nielsen
 
-H1 — Visibilidade do estado do sistema: o sistema mantém o usuário informado sobre o que está acontecendo.
+```markdown
+| Heurística | Nome | Descrição |
+| :--- | :--- | :--- |
+| **H1** | Visibilidade do estado do sistema | O sistema mantém o usuário informado sobre o que está acontecendo. |
+| **H2** | Correspondência entre o sistema e o mundo real | Uso de linguagem e conceitos familiares ao usuário. |
+| **H3** | Controle e liberdade do usuário | Saídas claras para ações feitas por engano (desfazer/refazer). |
+| **H4** | Consistência e padrões | Mesmos termos, telas e ações significam a mesma coisa em todo o sistema. |
+| **H5** | Prevenção de erros | Um bom projeto evita que o problema ocorra, em vez de só avisar depois. |
+| **H6** | Reconhecimento em vez de memorização | Opções e instruções visíveis, sem exigir que o usuário memorize. |
+| **H7** | Flexibilidade e eficiência de uso | Atalhos e aceleradores para usuários experientes, sem prejudicar iniciantes. |
+| **H8** | Estética e design minimalista | Diálogos sem informação irrelevante ou raramente necessária. |
+| **H9** | Ajudar o usuário a reconhecer, diagnosticar e corrigir erros | Mensagens de erro claras, em linguagem simples, com solução. |
+| **H10** | Ajuda e documentação | Mesmo sendo melhor usar o sistema sem documentação, ela deve estar disponível e ser fácil de buscar. |
 
-H2 — Correspondência entre o sistema e o mundo real: uso de linguagem e conceitos familiares ao usuário.
-
-H3 — Controle e liberdade do usuário: saídas claras para ações feitas por engano (desfazer/refazer).
-
-H4 — Consistência e padrões: mesmos termos, telas e ações significam a mesma coisa em todo o sistema.
-
-H5 — Prevenção de erros: um bom projeto evita que o problema ocorra, em vez de só avisar depois.
-
-H6 — Reconhecimento em vez de memorização: opções e instruções visíveis, sem exigir que o usuário memorize.
-
-H7 — Flexibilidade e eficiência de uso: atalhos e aceleradores para usuários experientes, sem prejudicar iniciantes.
-
-H8 — Estética e design minimalista: diálogos sem informação irrelevante ou raramente necessária.
-
-H9 — Ajudar o usuário a reconhecer, diagnosticar e corrigir erros: mensagens de erro claras, em linguagem simples,
-com solução.
-
-H10 — Ajuda e documentação: mesmo sendo melhor usar o sistema sem documentação, ela deve estar disponível e ser
-fácil de buscar.
+```
 
 ### Processo de inspeção
 <p align="justify">O grupo realizou a avaliação heurística do site seguindo quatro etapas. Primeiro, na inspeção, cada integrante analisou a interface do site com base nas heurísticas de usabilidade de Nielsen, identificando possíveis dificuldades de navegação e interação. Em seguida, na coleção, os problemas encontrados foram registrados e organizados como únicos ou repetidos. Na etapa de discriminação, o grupo discutiu os problemas identificados e os classificou como um defeito ou um falso-positivo. Por fim, no relato final, os resultados foram reunidos em um documento, apresentando os problemas encontrados e possíveis melhorias para tornar o site mais intuitivo e fácil de utilizar.</p>
