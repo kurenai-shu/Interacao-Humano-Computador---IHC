@@ -21,7 +21,7 @@
 - [Maze](TP1-IHC/01-avaliacao-usabilidade/3-maze.md)
 
 ### Avaliação UX
--[Experiência de uso](TP1-IHC/02-avaliacao-ux/esperiencia-de-uso.md)
+- [Experiência de uso](TP1-IHC/02-avaliacao-ux/esperiencia-de-uso.md)
 
 ### Avaliação de Acessibilidade
 - [Inspeção de Acessibilidade](TP1-IHC/03-avaliacao-acessibilidade/inspecao-de-acessibilidade.md)
