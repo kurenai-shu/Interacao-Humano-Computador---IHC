@@ -27,7 +27,7 @@ H10 — Ajuda e documentação: mesmo sendo melhor usar o sistema sem documenta�
 fácil de buscar.
 
 ### Processo de inspeção
-Descrição do processo adotado pela equipe.
+O grupo realizou a avaliação heurística do site seguindo quatro etapas. Primeiro, na inspeção, cada integrante analisou a interface do site com base nas heurísticas de usabilidade de Nielsen, identificando possíveis dificuldades de navegação e interação. Em seguida, na coleção, os problemas encontrados foram registrados e organizados como únicos ou repetidos. Na etapa de discriminação, o grupo discutiu os problemas identificados e os classificou como um defeito ou um falso-positivo. Por fim, no relato final, os resultados foram reunidos em um documento, apresentando os problemas encontrados e possíveis melhorias para tornar o site mais intuitivo e fácil de utilizar.
 ### Registros da avaliação 
 # Inspeção de Usabilidade
 
