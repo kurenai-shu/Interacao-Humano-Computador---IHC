@@ -12,20 +12,20 @@
 
 # Sumário
 
-## Aliexpress
+### Aliexpress
 - [Sobre aliexpress](https://github.com/kurenai-shu/Interacao-Humano-Computador---IHC/blob/main/TP1-IHC/00-Aliexpress/apresentacao-aliexpress.md)
 
-## Avaliação de Usabilidade
+### Avaliação de Usabilidade
 - [Inspeção](TP1-IHC/01-avaliacao-usabilidade/1-inspecao.md)
 - [Teste](TP1-IHC/01-avaliacao-usabilidade/2-teste.md)
 - [Maze](TP1-IHC/01-avaliacao-usabilidade/3-maze.md)
 
-## Avaliação UX
+### Avaliação UX
 -[Experiência de uso](TP1-IHC/02-avaliacao-ux/esperiencia-de-uso.md)
 
-## Avaliação de Acessibilidade
+### Avaliação de Acessibilidade
 - [Inspeção de Acessibilidade](TP1-IHC/03-avaliacao-acessibilidade/inspecao-de-acessibilidade.md)
 
-## Avaliação de Comunicabilidade
+### Avaliação de Comunicabilidade
 - [Mac. md](TP1-IHC/04-avaliacao-comunicabilidade/mac.md)
 
