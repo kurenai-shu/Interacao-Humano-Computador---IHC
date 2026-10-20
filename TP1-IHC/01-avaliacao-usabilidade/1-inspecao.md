@@ -31,7 +31,7 @@ O grupo realizou a avaliação heurística do site seguindo quatro etapas. Prime
 ### Registros da avaliação 
 # Inspeção de Usabilidade
 
-# Etapa 1 - Detecção
+## Etapa 1 - Detecção
 - [Detecção - Sergio Roberto ](https://app.notion.com/p/Detec-o-S-rgio-Roberto-3ffe14836b5780109828d3a324d87a76) <br>
 - [Detecção - Emanuel Queiroz](https://app.notion.com/p/4d8e14836b5782b58db0818c0b63ced4?v=59ae14836b57834ba67008cbea2f7df8) <br>
 - [Detecção - Kairlly Magalhães](https://app.notion.com/p/Detec-o-Kairlly-Magalh-es-3fee14836b57805c81f1c70b11fc1a78)<br>
@@ -39,15 +39,15 @@ O grupo realizou a avaliação heurística do site seguindo quatro etapas. Prime
 - [Detecção - Davi Marques](https://app.notion.com/p/Inspe-o-Davi-Marques-890e14836b578306b7128133c7c48cc8)<br>
 - [Detecção - Bruno Gomes](https://app.notion.com/p/Detec-o-Bruno-Gomes-3fee14836b5780cbbfe4c346dcace4a6)
 
-# Etapa 2 - Coleção
+## Etapa 2 - Coleção
 [Coleção](https://app.notion.com/p/1cee14836b5783e2aa9c01f9a5188f3f?v=23ce14836b57826d8c1108518652fcd9)
 
-# Etapa 3 - Discriminação
+## Etapa 3 - Discriminação
 [Discriminação](https://app.notion.com/p/3ffe14836b578091b243e2ce2569fe7b?v=d9de14836b5783b1a85b08a22bd2b351)
 
-# Etapa 4 - Relato dos resultados
+## Etapa 4 - Relato dos resultados
 [Relato dos resultados](https://app.notion.com/p/2ffe14836b57824996cb810b55985381?v=2c6e14836b5782e3bcf90876ec9f5efe)  
 
-# Ambiente Notion
+## Ambiente Notion
 [Notion](https://app.notion.com/p/Inspe-o-de-Usabilidade-TP1-3fde14836b5780f8ad03fcc796eda481)
 
