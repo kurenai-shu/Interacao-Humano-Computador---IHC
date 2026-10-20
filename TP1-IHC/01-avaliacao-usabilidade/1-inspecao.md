@@ -4,7 +4,7 @@
 
 ### Heurísticas de Nielsen
 
-```markdown
+
 | Heurística | Nome | Descrição |
 | :--- | :--- | :--- |
 | **H1** | Visibilidade do estado do sistema | O sistema mantém o usuário informado sobre o que está acontecendo. |
@@ -17,8 +17,6 @@
 | **H8** | Estética e design minimalista | Diálogos sem informação irrelevante ou raramente necessária. |
 | **H9** | Ajudar o usuário a reconhecer, diagnosticar e corrigir erros | Mensagens de erro claras, em linguagem simples, com solução. |
 | **H10** | Ajuda e documentação | Mesmo sendo melhor usar o sistema sem documentação, ela deve estar disponível e ser fácil de buscar. |
-
-```
 
 ### Processo de inspeção
 <p align="justify">O grupo realizou a avaliação heurística do site seguindo quatro etapas. Primeiro, na inspeção, cada integrante analisou a interface do site com base nas heurísticas de usabilidade de Nielsen, identificando possíveis dificuldades de navegação e interação. Em seguida, na coleção, os problemas encontrados foram registrados e organizados como únicos ou repetidos. Na etapa de discriminação, o grupo discutiu os problemas identificados e os classificou como um defeito ou um falso-positivo. Por fim, no relato final, os resultados foram reunidos em um documento, apresentando os problemas encontrados e possíveis melhorias para tornar o site mais intuitivo e fácil de utilizar.</p>
