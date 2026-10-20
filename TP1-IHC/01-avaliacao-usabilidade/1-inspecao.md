@@ -47,7 +47,7 @@ fácil de buscar.
 [Discriminação](https://app.notion.com/p/3ffe14836b578091b243e2ce2569fe7b?v=d9de14836b5783b1a85b08a22bd2b351)
 
 
-<img width="1600" height="1000" alt="WhatsApp Image 2026-10-19 at 22 04 11" src="https://github.com/user-attachments/assets/3e114b55-50b4-4a6f-be03-8d373563ed0b" />
+<img height="500" alt="WhatsApp Image 2026-10-19 at 22 04 11" src="https://github.com/user-attachments/assets/3e114b55-50b4-4a6f-be03-8d373563ed0b" />
 
 
 ## Etapa 4 - Relato dos resultados
