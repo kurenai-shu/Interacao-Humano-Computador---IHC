@@ -1,8 +1,3 @@
-<img width="1600" height="1000" alt="WhatsApp Image 2026-10-19 at 22 04 11" src="https://github.com/user-attachments/assets/9b772eb7-0713-4a53-a4f1-59322665e229" />
-<img width="1600" height="1000" alt="WhatsApp Image 2026-10-19 at 22 04 11" src="https://github.com/user-attachments/assets/e46fb694-2949-44ea-8479-1c9f70b61b1c" />
-<img width="1600" height="1000" alt="WhatsApp Image 2026-10-19 at 22 04 11" src="https://github.com/user-attachments/assets/5e8b23d9-d97e-4ed2-a7c8-f3ec3b181d79" />
-<img width="1600" height="1000" alt="WhatsApp Image 2026-10-19 at 22 04 11" src="https://github.com/user-attachments/assets/700da543-1b3d-4057-91d7-91693122abe0" />
-<img width="1600" height="1000" alt="WhatsApp Image 2026-10-19 at 22 04 11" src="https://github.com/user-attachments/assets/8a4749cf-f596-4196-9b31-0f7895cca1c2" />
 ## Avaliação Heurística
 ### Método utilizado
 <p align="justify">A Avaliação Heurística é um método de avaliação de usabilidade em que especialistas analisam uma interface com base em princípios de usabilidade, chamados heurísticas, como as 10 heurísticas de Nielsen. Ela busca identificar problemas de usabilidade, priorizar melhorias e contribuir para a criação de interfaces mais intuitivas, eficientes e agradáveis para o usuário.</p>
