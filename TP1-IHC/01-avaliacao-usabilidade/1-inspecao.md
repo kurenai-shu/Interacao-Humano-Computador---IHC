@@ -7,7 +7,6 @@ Apresentação resumida das 10 heurísticas.
 ### Processo de inspeção
 Descrição do processo adotado pela equipe.
 ### Registros da avaliação (exemplo)
-# Inspeção de Usabilidade
 
 # Inspeção de Usabilidade
 
