@@ -1,5 +1,6 @@
 ## Avaliação Heurística
 ### Método utilizado
+A Avaliação Heurística é um método de avaliação de usabilidade em que especialistas analisam uma interface com base em princípios de usabilidade, chamados heurísticas, como as 10 heurísticas de Nielsen. O objetivo é identificar problemas que possam dificultar a interação dos usuários com o sistema e propor melhorias para tornar a interface mais intuitiva, eficiente e fácil de utilizar.
 Breve explicação da Avaliação Heurística.
 ### Heurísticas de Nielsen
 Apresentação resumida das 10 heurísticas.
