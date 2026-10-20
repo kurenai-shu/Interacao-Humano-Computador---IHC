@@ -14,7 +14,7 @@ Descrição do processo adotado pela equipe.
 - [Detecção - Sergio Roberto ](https://app.notion.com/p/Detec-o-S-rgio-Roberto-3ffe14836b5780109828d3a324d87a76) <br>
 - [Detecção - Emanuel Queiroz](https://app.notion.com/p/4d8e14836b5782b58db0818c0b63ced4?v=59ae14836b57834ba67008cbea2f7df8) <br>
 - [Detecção - Kairlly Magalhães](https://app.notion.com/p/Detec-o-Kairlly-Magalh-es-3fee14836b57805c81f1c70b11fc1a78)<br>
-- [Detecção - Guilherme Alencar]([ttps://app.notion.com/p/Detec-o-Kairlly-Magalh-es-3fee14836b57805c81f1c70b11fc1a78](https://app.notion.com/p/Detec-o-Guilherme-Alencar-537e14836b57831c896f01f47c16ec47))<br>
+- [Detecção - Guilherme Alencar](https://app.notion.com/p/Detec-o-Kairlly-Magalh-es-3fee14836b57805c81f1c70b11fc1a78](https://app.notion.com/p/Detec-o-Guilherme-Alencar-537e14836b57831c896f01f47c16ec47)<br>
 - [Tabela de detecção -  RODRIGO TORRES RODRIGUES](https://www.notion.so/2696bcc1a58a8098bea5ecd6d8f1218c?v=2696bcc1a58a814c80cd000cb7855f2d&source=copy_link)<br>
 
 # Etapa 2 - Coleção
