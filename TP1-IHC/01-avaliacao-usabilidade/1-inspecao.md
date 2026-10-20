@@ -24,10 +24,11 @@
 ### Registros da avaliação 
 [Ambiente Notion](https://app.notion.com/p/Inspe-o-de-Usabilidade-TP1-3fde14836b5780f8ad03fcc796eda481)
 
+### Equipe realizando a discriminação
 <div align="center">
   <img height="350" alt="WhatsApp Image 2026-10-19 at 22 04 11" src="https://github.com/user-attachments/assets/3e114b55-50b4-4a6f-be03-8d373563ed0b" />
 </div>
-### Equipe realizando a discriminação
+
 
 ## Etapa 1 - Detecção
 - [Detecção - Sergio Roberto ](https://app.notion.com/p/Detec-o-S-rgio-Roberto-3ffe14836b5780109828d3a324d87a76) <br>
