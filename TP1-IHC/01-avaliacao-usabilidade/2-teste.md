@@ -26,3 +26,4 @@ Durante a aplicação do teste de usabilidade no site AliExpress, pretende-se ob
 ### Respostas abertas e fatores de usabilidade
 [Inserir tabela e explicação]
 ### Considerações sobre o Teste de Usabilidade
+aborgue
