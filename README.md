@@ -23,4 +23,9 @@
 # Avaliação UX
 -[Experiência de uso](TP1-IHC/02-avaliacao-ux/esperiencia-de-uso.md)
 
+# Avaliação de Acessibilidade
+- [Inspeção de Acessibilidade]()
+
+# Avaliação de Comunicabilidade
+- [Mac. md]()
 
