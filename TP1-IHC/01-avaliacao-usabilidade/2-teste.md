@@ -21,39 +21,52 @@ Durante a aplicação do teste de usabilidade no site AliExpress, pretende-se ob
 
 8. Localizar o carrinho: Encontre os produtos que estão no seu carrinho de compras e verifique o preço total.
 ### Instrumentos utilizados
+- google meet;
+- maze;
+- site AliExpress
+
 
 ## 2. Teste Piloto
 
+<img height="200" alt="Google Meet com Rostos Pixelados e AliExpress" src="https://github.com/user-attachments/assets/6fbf044a-72fe-4541-ac75-b611f4b7b616" />
+
+ Figura 1 — Participante P00 durante a realização do teste piloto
+
 ### Ajustes realizados
-[Descrever os ajustes feitos após o piloto]
+O teste piloto foi um sucesso e não tivemos a necessidade de realizar ajustes.
 ## 3. Execução
 ### Evidências
 
-<img height="200" alt="Google Meet com Rostos Pixelados e AliExpress" src="https://github.com/user-attachments/assets/6fbf044a-72fe-4541-ac75-b611f4b7b616" />
- Figura 1 — Participante P00 durante a realização do teste piloto
-
 <img height="200" alt="WhatsApp Image 2026-10-22 at 21 10 40" src="https://github.com/user-attachments/assets/47be8101-c35a-4bdb-b3b8-9d06f976439f" />
+
  Figura 2 — Participante P01 durante a realização do teste
 
 <img height="200" alt="WhatsApp Image 2026-10-22 at 21 09 01" src="https://github.com/user-attachments/assets/101d3c4d-46fa-4a74-9a4e-42f6f4c673d7" />
+
  Figura 3 — Participante P02 durante a realização do teste
 
 <img height="200" alt="WhatsApp Image 2026-10-22 at 21 03 39" src="https://github.com/user-attachments/assets/719d951e-dcb8-4952-bb69-979ccf050119" />
+
  Figura 4 — Participante P03 durante a realização do teste
 
 <img height="200" alt="WhatsApp Image 2026-10-22 at 21 02 23" src="https://github.com/user-attachments/assets/7a12e5d8-8389-4cdb-8660-756e8ecf8c71" />
+
  Figura 5 — Participante P04 durante a realização do teste
 
 <img height="200" alt="WhatsApp Image 2026-10-22 at 21 01 19" src="https://github.com/user-attachments/assets/c82b552c-ab8d-41e8-9904-8d42e1495fbd" />
+
  Figura 6 — Participante P05 durante a realização do teste
 
 <img height="200" alt="WhatsApp Image 2026-10-22 at 20 59 24" src="https://github.com/user-attachments/assets/c2dfb504-402a-4a0c-9c2e-e5407a76c9c3" />
+
  Figura 7 — Participante P06 durante a realização do teste
 
 <img height="200" alt="WhatsApp Image 2026-10-22 at 20 57 34" src="https://github.com/user-attachments/assets/7486e2a1-c549-43b6-afb5-49afe810aebe" />
+
  Figura 8 — Participante P07 durante a realização do teste
 
 <img height="200" alt="WhatsApp Image 2026-10-22 at 20 55 32" src="https://github.com/user-attachments/assets/e56f3b59-e97f-4a9d-9dfa-f8f044c5e86b" />
+
  Figura 9 — Participante P08 durante a realização do teste
 
 
@@ -197,6 +210,80 @@ Durante a aplicação do teste de usabilidade no site AliExpress, pretende-se ob
 <div align="center"> Tabela 10 - Consolidação por tarefa</div>
 
 ### Respostas abertas e fatores de usabilidade
-[Inserir tabela e explicação]
+**Pergunta 1:** Como você descreveu sua experiência geral ao realizar as tarefas no site do AliExpress?
+
+| Participante | Resposta |
+|:------------:|----------|
+| P01 | Mediano. Esperava mais otimização vinda do site. |
+| P02 | Boa |
+| P03 | Consegui realizar todas as tarefas, em uma ou duas demorei um minuto para realizar pois acho a interface do aliexpress com muita informação, mas no geral minha experiência foi boa. |
+| P04 | Boa |
+| P05 | básico |
+| P06 | muito fácil, satifatorio em consequir encontra os produtos. |
+| P07 | As tarefas foram realizadas de forma rápida e prática, sem apresentar dificuldades durante sua execução. |
+| P08 | A experiência é boa, porém algumas funcionalidades são confusas e a interface poluída |
+
+<p align="center"><em>Tabela 11 - Respostas abertas</em></p>
+
+**Pergunta 2:** Você encontrou alguma dificuldade para realizar as tarefas? Se sim, descreva quais foram.
+
+| Participante | Resposta |
+|:------------:|----------|
+| P01 | Não encontrei nenhuma dificuldade. |
+| P02 | Não. |
+| P03 | como descrevi acho que a interface tem muita informação, e demorei um pouco para encontrar uma ou duas tarefas |
+| P04 | Não |
+| P05 | não |
+| P06 | sim, os comentários dos clientes sobre os produtos. |
+| P07 | não |
+| P08 | Sim. Por conta da poluição |
+
+<p align="center"><em>Tabela 12 - Respostas abertas</em></p>
+
+**Pergunta 3:** O que você achou da facilidade de encontrar produtos e localizar as informações necessárias no site?
+
+| Participante | Resposta |
+|:------------:|----------|
+| P01 | a busca é boa |
+| P02 | informações poderiam ser mais visíveis. |
+| P03 | como também falei anteriormente, a interface é muito sobrecarregada de anuncios. |
+| P04 | os filtros e as avaliações ajudam bastante. |
+| P05 | Muitos anúncios. |
+| P06 | algumas informações são difíceis de encontrar. |
+| P07 | Navegação intuitiva e simples. |
+| P08 | Fácil. |
+
+<p align="center"><em>Tabela 13 - Respostas abertas</em></p>
+
+**Pergunta 4:** Houve algum elemento ou funcionalidade no site que facilitou ou dificultou sua navegação? Se sim, qual?
+
+| Participante | Resposta |
+|:------------:|----------|
+| P01 | As promoções que FORÇAM o comprador a ir para uma aba específica da promoção, negando a compra singular do produto. |
+| P02 | Sim. O layt da página e um pouco poluída |
+| P03 | Interface com grande volume de dados, causando um pouco de sobrecarga cognitiva. |
+| P04 | Não |
+| P05 | não |
+| P06 | sim, facilitou na busca dos produtos. |
+| P07 | A função de ordenar os preços facilita a procura de um valor específico |
+| P08 | Sim. algumas funcionalidades foram de difícil acesso e compreensão |
+
+<p align="center"><em>Tabela 14 - Respostas abertas</em></p>
+
+**Pergunta 5:** O que você mudaria ou melhoraria no site do AliExpress para tornar a experiência de uso mais fácil e agradável?
+
+| Participante | Resposta |
+|:------------:|----------|
+| P01 | Uma cor. Não gosto da cor Laranja. |
+| P02 | A forma de procura. |
+| P03 | Deixaria menos poluído, sem excesso de elementos. |
+| P04 | Melhorar o IHC do site |
+| P05 | Uma mudança sem imposto e produtos falsos |
+| P06 | quando aparecer o produto, a descrição do produto viesse ao lado. |
+| P07 | A descrição dos produtos poderia ser melhorada, apresentando informações mais claras e completas |
+| P08 | Um visual |
+
+<p align="center"><em>Tabela 15 - Respostas abertas</em></p>
+
 ### Considerações sobre o Teste de Usabilidade
 
