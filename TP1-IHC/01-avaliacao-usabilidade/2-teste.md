@@ -59,11 +59,143 @@ Durante a aplicação do teste de usabilidade no site AliExpress, pretende-se ob
 
 ## 4. Análise dos Resultados
 ### Resultados por participante
-[Inserir tabela e explicação]
+| Tarefa | Tempo (em segundos) | Resultado da tarefa | Erros | Observações |
+| :--- | :---: | :---: | :---: | :--- |
+| T1: Pesquisar um produto: Encontre um fone de ouvido no site do AliExpress. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T2: Buscar por preço: Encontre um mouse de computador que custe menos de R$ 50,00. | 180 | ! | 2 | Hesitou ao utilizar os filtros de busca |
+| T3: Visualizar um produto: Encontre um produto de sua preferência e consulte suas informações e características. | 90 | x | 5 | Não conseguiu executar a tarefa |
+| T4: Verificar avaliações: Encontre um produto e consulte as avaliações feitas por outros compradores. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T5: Consultar opções de entrega: Encontre um produto e verifique as informações sobre o prazo de entrega. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T6: Selecionar uma variação: Encontre uma camiseta e escolha uma cor e um tamanho disponíveis. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T7: Adicionar ao carrinho: Escolha um produto de sua preferência e adicione-o ao carrinho de compras. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T8: Localizar o carrinho: Encontre os produtos que estão no seu carrinho de compras e verifique o preço total. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
+
+<div align="center"> Tabela 1 - Resultados do participante 1 </div>
+</br>
+
+| Tarefa | Tempo (em segundos) | Resultado da tarefa | Erros | Observações |
+| :--- | :---: | :---: | :---: | :--- |
+| T1: Pesquisar um produto: Encontre um fone de ouvido no site do AliExpress. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T2: Buscar por preço: Encontre um mouse de computador que custe menos de R$ 50,00. | 180 | ! | 2 | Hesitou ao utilizar os filtros de busca |
+| T3: Visualizar um produto: Encontre um produto de sua preferência e consulte suas informações e características. | 90 | x | 5 | Não conseguiu executar a tarefa |
+| T4: Verificar avaliações: Encontre um produto e consulte as avaliações feitas por outros compradores. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T5: Consultar opções de entrega: Encontre um produto e verifique as informações sobre o prazo de entrega. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T6: Selecionar uma variação: Encontre uma camiseta e escolha uma cor e um tamanho disponíveis. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T7: Adicionar ao carrinho: Escolha um produto de sua preferência e adicione-o ao carrinho de compras. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T8: Localizar o carrinho: Encontre os produtos que estão no seu carrinho de compras e verifique o preço total. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
+
+<div align="center"> Tabela 2 - Resultados do participante 2 </div>
+</br>
+
+| Tarefa | Tempo (em segundos) | Resultado da tarefa | Erros | Observações |
+| :--- | :---: | :---: | :---: | :--- |
+| T1: Pesquisar um produto: Encontre um fone de ouvido no site do AliExpress. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T2: Buscar por preço: Encontre um mouse de computador que custe menos de R$ 50,00. | 180 | ! | 2 | Hesitou ao utilizar os filtros de busca |
+| T3: Visualizar um produto: Encontre um produto de sua preferência e consulte suas informações e características. | 90 | x | 5 | Não conseguiu executar a tarefa |
+| T4: Verificar avaliações: Encontre um produto e consulte as avaliações feitas por outros compradores. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T5: Consultar opções de entrega: Encontre um produto e verifique as informações sobre o prazo de entrega. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T6: Selecionar uma variação: Encontre uma camiseta e escolha uma cor e um tamanho disponíveis. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T7: Adicionar ao carrinho: Escolha um produto de sua preferência e adicione-o ao carrinho de compras. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T8: Localizar o carrinho: Encontre os produtos que estão no seu carrinho de compras e verifique o preço total. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
+
+<div align="center"> Tabela 3 - Resultados do participante 3 </div>
+</br>
+
+| Tarefa | Tempo (em segundos) | Resultado da tarefa | Erros | Observações |
+| :--- | :---: | :---: | :---: | :--- |
+| T1: Pesquisar um produto: Encontre um fone de ouvido no site do AliExpress. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T2: Buscar por preço: Encontre um mouse de computador que custe menos de R$ 50,00. | 180 | ! | 2 | Hesitou ao utilizar os filtros de busca |
+| T3: Visualizar um produto: Encontre um produto de sua preferência e consulte suas informações e características. | 90 | x | 5 | Não conseguiu executar a tarefa |
+| T4: Verificar avaliações: Encontre um produto e consulte as avaliações feitas por outros compradores. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T5: Consultar opções de entrega: Encontre um produto e verifique as informações sobre o prazo de entrega. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T6: Selecionar uma variação: Encontre uma camiseta e escolha uma cor e um tamanho disponíveis. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T7: Adicionar ao carrinho: Escolha um produto de sua preferência e adicione-o ao carrinho de compras. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T8: Localizar o carrinho: Encontre os produtos que estão no seu carrinho de compras e verifique o preço total. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
+
+<div align="center"> Tabela 4 - Resultados do participante 4 </div>
+</br>
+
+| Tarefa | Tempo (em segundos) | Resultado da tarefa | Erros | Observações |
+| :--- | :---: | :---: | :---: | :--- |
+| T1: Pesquisar um produto: Encontre um fone de ouvido no site do AliExpress. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T2: Buscar por preço: Encontre um mouse de computador que custe menos de R$ 50,00. | 180 | ! | 2 | Hesitou ao utilizar os filtros de busca |
+| T3: Visualizar um produto: Encontre um produto de sua preferência e consulte suas informações e características. | 90 | x | 5 | Não conseguiu executar a tarefa |
+| T4: Verificar avaliações: Encontre um produto e consulte as avaliações feitas por outros compradores. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T5: Consultar opções de entrega: Encontre um produto e verifique as informações sobre o prazo de entrega. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T6: Selecionar uma variação: Encontre uma camiseta e escolha uma cor e um tamanho disponíveis. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T7: Adicionar ao carrinho: Escolha um produto de sua preferência e adicione-o ao carrinho de compras. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T8: Localizar o carrinho: Encontre os produtos que estão no seu carrinho de compras e verifique o preço total. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
+
+<div align="center"> Tabela 5 - Resultados do participante 5 </div>
+</br>
+
+| Tarefa | Tempo (em segundos) | Resultado da tarefa | Erros | Observações |
+| :--- | :---: | :---: | :---: | :--- |
+| T1: Pesquisar um produto: Encontre um fone de ouvido no site do AliExpress. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T2: Buscar por preço: Encontre um mouse de computador que custe menos de R$ 50,00. | 180 | ! | 2 | Hesitou ao utilizar os filtros de busca |
+| T3: Visualizar um produto: Encontre um produto de sua preferência e consulte suas informações e características. | 90 | x | 5 | Não conseguiu executar a tarefa |
+| T4: Verificar avaliações: Encontre um produto e consulte as avaliações feitas por outros compradores. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T5: Consultar opções de entrega: Encontre um produto e verifique as informações sobre o prazo de entrega. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T6: Selecionar uma variação: Encontre uma camiseta e escolha uma cor e um tamanho disponíveis. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T7: Adicionar ao carrinho: Escolha um produto de sua preferência e adicione-o ao carrinho de compras. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T8: Localizar o carrinho: Encontre os produtos que estão no seu carrinho de compras e verifique o preço total. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
+
+<div align="center"> Tabela 6 - Resultados do participante 6 </div>
+</br>
+
+| Tarefa | Tempo (em segundos) | Resultado da tarefa | Erros | Observações |
+| :--- | :---: | :---: | :---: | :--- |
+| T1: Pesquisar um produto: Encontre um fone de ouvido no site do AliExpress. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T2: Buscar por preço: Encontre um mouse de computador que custe menos de R$ 50,00. | 180 | ! | 2 | Hesitou ao utilizar os filtros de busca |
+| T3: Visualizar um produto: Encontre um produto de sua preferência e consulte suas informações e características. | 90 | x | 5 | Não conseguiu executar a tarefa |
+| T4: Verificar avaliações: Encontre um produto e consulte as avaliações feitas por outros compradores. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T5: Consultar opções de entrega: Encontre um produto e verifique as informações sobre o prazo de entrega. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T6: Selecionar uma variação: Encontre uma camiseta e escolha uma cor e um tamanho disponíveis. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T7: Adicionar ao carrinho: Escolha um produto de sua preferência e adicione-o ao carrinho de compras. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T8: Localizar o carrinho: Encontre os produtos que estão no seu carrinho de compras e verifique o preço total. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
+
+<div align="center"> Tabela 7 - Resultados do participante 7 </div>
+</br>
+
+| Tarefa | Tempo (em segundos) | Resultado da tarefa | Erros | Observações |
+| :--- | :---: | :---: | :---: | :--- |
+| T1: Pesquisar um produto: Encontre um fone de ouvido no site do AliExpress. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T2: Buscar por preço: Encontre um mouse de computador que custe menos de R$ 50,00. | 180 | ! | 2 | Hesitou ao utilizar os filtros de busca |
+| T3: Visualizar um produto: Encontre um produto de sua preferência e consulte suas informações e características. | 90 | x | 5 | Não conseguiu executar a tarefa |
+| T4: Verificar avaliações: Encontre um produto e consulte as avaliações feitas por outros compradores. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T5: Consultar opções de entrega: Encontre um produto e verifique as informações sobre o prazo de entrega. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T6: Selecionar uma variação: Encontre uma camiseta e escolha uma cor e um tamanho disponíveis. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T7: Adicionar ao carrinho: Escolha um produto de sua preferência e adicione-o ao carrinho de compras. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T8: Localizar o carrinho: Encontre os produtos que estão no seu carrinho de compras e verifique o preço total. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
+
+<div align="center"> Tabela 8 - Resultados do participante 8 </div>
+
 ### Resumo por participante
-[Inserir tabela e explicação]
+| Participante | Sucesso ✓ | Com dificuldade ! | Insucesso X | Tempo total (s) | Total de erros |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| P01 | 2 | 1 | 0 | 405 | 3 |
+| P02 | 2 | 0 | 1 | 470 | 5 |
+| P03 | 1 | 1 | 1 | 485 | 5 |
+| P04 | 2 | 1 | 0 | 405 | 3 |
+| P05 | 2 | 0 | 1 | 470 | 5 |
+| P06 | 1 | 1 | 1 | 485 | 5 |
+| P07 | 2 | 1 | 0 | 405 | 3 |
+| P08 | 2 | 0 | 1 | 470 | 5 |
+<div align="center"> Tabela 9 - Resumo por participante </div>
+
 ### Consolidação por tarefa
-[Inserir tabela e explicação]
+| Tarefa | TSR – Taxa de Sucesso (%) | TTR – Tempo médio da tarefa (%) |
+| :--- | :---: | :---: |
+| T1 — Pesquisar um produto: Encontre um fone de ouvido no site do AliExpress.| 66,7% | 33,3% |
+| T2 — Buscar por preço: Encontre um mouse de computador que custe menos de R$ 50,00. | 33,3% | 33,3% |
+| T3 — Visualizar um produto: Encontre um produto de sua preferência e consulte suas informações e características. | 66,7% | 0% |
+| T4 — Verificar avaliações: Encontre um produto e consulte as avaliações feitas por outros compradores. | 66,7% | 33,3% |
+| T5 — Consultar opções de entrega: Encontre um produto e verifique as informações sobre o prazo de entrega. | 33,3% | 33,3% |
+| T6 — Selecionar uma variação: Encontre uma camiseta e escolha uma cor e um tamanho disponíveis. | 66,7% | 0% |
+| T7 — Adicionar ao carrinho: Escolha um produto de sua preferência e adicione-o ao carrinho de compras. | 66,7% | 33,3% |
+| T8 — Localizar o carrinho: Encontre os produtos que estão no seu carrinho de compras e verifique o preço total. | 33,3% | 33,3% |
+<div align="center"> Tabela 10 - Consolidação por tarefa</div>
+
 ### Respostas abertas e fatores de usabilidade
 [Inserir tabela e explicação]
 ### Considerações sobre o Teste de Usabilidade
