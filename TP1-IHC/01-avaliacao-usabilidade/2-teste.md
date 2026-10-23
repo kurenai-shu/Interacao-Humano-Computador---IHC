@@ -28,8 +28,10 @@ Durante a aplicação do teste de usabilidade no site AliExpress, pretende-se ob
 [Descrever os ajustes feitos após o piloto]
 ## 3. Execução
 ### Evidências
-![Participante realizando o teste](imagens/teste-p01.png)
-*Figura 1 — Participante P01 durante a realização do teste.*
+
+<img height="964" alt="Google Meet com Rostos Pixelados e AliExpress" src="https://github.com/user-attachments/assets/6fbf044a-72fe-4541-ac75-b611f4b7b616" />
+
+*Figura 1 — Participante P00 durante a realização do teste piloto*
 ## 4. Análise dos Resultados
 ### Resultados por participante
 [Inserir tabela e explicação]
