@@ -25,6 +25,7 @@ Durante a aplicação do teste de usabilidade no site AliExpress, pretende-se ob
 - maze;
 - site AliExpress
 
+
 ## 2. Teste Piloto
 
 <img height="200" alt="Google Meet com Rostos Pixelados e AliExpress" src="https://github.com/user-attachments/assets/6fbf044a-72fe-4541-ac75-b611f4b7b616" />
@@ -68,987 +69,219 @@ O teste piloto foi um sucesso e não tivemos a necessidade de realizar ajustes.
 
 *Figura 9 — Participante P08 durante a realização do teste*
 
+
 ## 4. Análise dos Resultados
 ### Resultados por participante
-
-<div align="center">
-<table align="center">
-  <thead>
-    <tr>
-      <th>Tarefa</th>
-      <th>Tempo (em segundos)</th>
-      <th>Resultado da tarefa</th>
-      <th>Erros</th>
-      <th>Observações</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>T1: Pesquisar um produto: Encontre um fone de ouvido no site do AliExpress.</td>
-      <td>35</td>
-      <td>✓</td>
-      <td>0</td>
-      <td>Realizou sem apresentar dificuldades</td>
-    </tr>
-    <tr>
-      <td>T2: Buscar por preço: Encontre um mouse de computador que custe menos de R$ 50,00.</td>
-      <td>51</td>
-      <td>!</td>
-      <td>2</td>
-      <td>Hesitou ao utilizar os filtros de busca</td>
-    </tr>
-    <tr>
-      <td>T3: Visualizar um produto: Encontre um produto de sua preferência e consulte suas informações e características.</td>
-      <td>43</td>
-      <td>x</td>
-      <td>5</td>
-      <td>Não conseguiu executar a tarefa</td>
-    </tr>
-    <tr>
-      <td>T4: Verificar avaliações: Encontre um produto e consulte as avaliações feitas por outros compradores.</td>
-      <td>62</td>
-      <td>✓</td>
-      <td>0</td>
-      <td>Realizou sem apresentar dificuldades</td>
-    </tr>
-    <tr>
-      <td>T5: Consultar opções de entrega: Encontre um produto e verifique as informações sobre o prazo de entrega.</td>
-      <td>125</td>
-      <td>✓</td>
-      <td>0</td>
-      <td>Realizou sem apresentar dificuldades</td>
-    </tr>
-    <tr>
-      <td>T6: Selecionar uma variação: Encontre uma camiseta e escolha uma cor e um tamanho disponíveis.</td>
-      <td>86</td>
-      <td>✓</td>
-      <td>0</td>
-      <td>Realizou sem apresentar dificuldades</td>
-    </tr>
-    <tr>
-      <td>T7: Adicionar ao carrinho: Escolha um produto de sua preferência e adicione-o ao carrinho de compras.</td>
-      <td>7</td>
-      <td>✓</td>
-      <td>0</td>
-      <td>Realizou sem apresentar dificuldades</td>
-    </tr>
-    <tr>
-      <td>T8: Localizar o carrinho: Encontre os produtos que estão no seu carrinho de compras e verifique o preço total.</td>
-      <td>12</td>
-      <td>✓</td>
-      <td>0</td>
-      <td>Realizou sem apresentar dificuldades</td>
-    </tr>
-  </tbody>
-</table>
-</div>
+| Tarefa | Tempo (em segundos) | Resultado da tarefa | Erros | Observações |
+| :--- | :---: | :---: | :---: | :--- |
+| T1: Pesquisar um produto: Encontre um fone de ouvido no site do AliExpress. | 35 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T2: Buscar por preço: Encontre um mouse de computador que custe menos de R$ 50,00. | 51 | ! | 2 | Hesitou ao utilizar os filtros de busca |
+| T3: Visualizar um produto: Encontre um produto de sua preferência e consulte suas informações e características. | 43 | x | 5 | Não conseguiu executar a tarefa |
+| T4: Verificar avaliações: Encontre um produto e consulte as avaliações feitas por outros compradores. | 62 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T5: Consultar opções de entrega: Encontre um produto e verifique as informações sobre o prazo de entrega. | 125 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T6: Selecionar uma variação: Encontre uma camiseta e escolha uma cor e um tamanho disponíveis. | 86 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T7: Adicionar ao carrinho: Escolha um produto de sua preferência e adicione-o ao carrinho de compras. | 7 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T8: Localizar o carrinho: Encontre os produtos que estão no seu carrinho de compras e verifique o preço total. | 12 | ✓ | 0 | Realizou sem apresentar dificuldades |
 
 <div align="center"><em>Tabela 1 - Resultados do participante 1</em></div>
+</br>
 
-<div align="center">
-<table align="center">
-  <thead>
-    <tr>
-      <th>Tarefa</th>
-      <th>Tempo (em segundos)</th>
-      <th>Resultado da tarefa</th>
-      <th>Erros</th>
-      <th>Observações</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>T1: Pesquisar um produto: Encontre um fone de ouvido no site do AliExpress.</td>
-      <td>18</td>
-      <td>✓</td>
-      <td>0</td>
-      <td>Realizou sem apresentar dificuldades</td>
-    </tr>
-    <tr>
-      <td>T2: Buscar por preço: Encontre um mouse de computador que custe menos de R$ 50,00.</td>
-      <td>42</td>
-      <td>!</td>
-      <td>2</td>
-      <td>Hesitou ao utilizar os filtros de busca</td>
-    </tr>
-    <tr>
-      <td>T3: Visualizar um produto: Encontre um produto de sua preferência e consulte suas informações e características.</td>
-      <td>32</td>
-      <td>x</td>
-      <td>5</td>
-      <td>Não conseguiu executar a tarefa</td>
-    </tr>
-    <tr>
-      <td>T4: Verificar avaliações: Encontre um produto e consulte as avaliações feitas por outros compradores.</td>
-      <td>3</td>
-      <td>✓</td>
-      <td>0</td>
-      <td>Realizou sem apresentar dificuldades</td>
-    </tr>
-    <tr>
-      <td>T5: Consultar opções de entrega: Encontre um produto e verifique as informações sobre o prazo de entrega.</td>
-      <td>19</td>
-      <td>✓</td>
-      <td>0</td>
-      <td>Realizou sem apresentar dificuldades</td>
-    </tr>
-    <tr>
-      <td>T6: Selecionar uma variação: Encontre uma camiseta e escolha uma cor e um tamanho disponíveis.</td>
-      <td>25</td>
-      <td>✓</td>
-      <td>0</td>
-      <td>Realizou sem apresentar dificuldades</td>
-    </tr>
-    <tr>
-      <td>T7: Adicionar ao carrinho: Escolha um produto de sua preferência e adicione-o ao carrinho de compras.</td>
-      <td>5</td>
-      <td>✓</td>
-      <td>0</td>
-      <td>Realizou sem apresentar dificuldades</td>
-    </tr>
-    <tr>
-      <td>T8: Localizar o carrinho: Encontre os produtos que estão no seu carrinho de compras e verifique o preço total.</td>
-      <td>13</td>
-      <td>✓</td>
-      <td>0</td>
-      <td>Realizou sem apresentar dificuldades</td>
-    </tr>
-  </tbody>
-</table>
-</div>
+| Tarefa | Tempo (em segundos) | Resultado da tarefa | Erros | Observações |
+| :--- | :---: | :---: | :---: | :--- |
+| T1: Pesquisar um produto: Encontre um fone de ouvido no site do AliExpress. | 18 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T2: Buscar por preço: Encontre um mouse de computador que custe menos de R$ 50,00. | 42 | ! | 2 | Hesitou ao utilizar os filtros de busca |
+| T3: Visualizar um produto: Encontre um produto de sua preferência e consulte suas informações e características. | 32 | x | 5 | Não conseguiu executar a tarefa |
+| T4: Verificar avaliações: Encontre um produto e consulte as avaliações feitas por outros compradores. | 3 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T5: Consultar opções de entrega: Encontre um produto e verifique as informações sobre o prazo de entrega. | 19 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T6: Selecionar uma variação: Encontre uma camiseta e escolha uma cor e um tamanho disponíveis. | 25 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T7: Adicionar ao carrinho: Escolha um produto de sua preferência e adicione-o ao carrinho de compras. | 5 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T8: Localizar o carrinho: Encontre os produtos que estão no seu carrinho de compras e verifique o preço total. | 13 | ✓ | 0 | Realizou sem apresentar dificuldades |
 
 <div align="center"><em>Tabela 2 - Resultados do participante 2</em></div>
+</br>
 
-<div align="center">
-<table align="center">
-  <thead>
-    <tr>
-      <th>Tarefa</th>
-      <th>Tempo (em segundos)</th>
-      <th>Resultado da tarefa</th>
-      <th>Erros</th>
-      <th>Observações</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>T1: Pesquisar um produto: Encontre um fone de ouvido no site do AliExpress.</td>
-      <td>9</td>
-      <td>✓</td>
-      <td>0</td>
-      <td>Realizou sem apresentar dificuldades</td>
-    </tr>
-    <tr>
-      <td>T2: Buscar por preço: Encontre um mouse de computador que custe menos de R$ 50,00.</td>
-      <td>17</td>
-      <td>!</td>
-      <td>2</td>
-      <td>Hesitou ao utilizar os filtros de busca</td>
-    </tr>
-    <tr>
-      <td>T3: Visualizar um produto: Encontre um produto de sua preferência e consulte suas informações e características.</td>
-      <td>30</td>
-      <td>x</td>
-      <td>5</td>
-      <td>Não conseguiu executar a tarefa</td>
-    </tr>
-    <tr>
-      <td>T4: Verificar avaliações: Encontre um produto e consulte as avaliações feitas por outros compradores.</td>
-      <td>6</td>
-      <td>✓</td>
-      <td>0</td>
-      <td>Realizou sem apresentar dificuldades</td>
-    </tr>
-    <tr>
-      <td>T5: Consultar opções de entrega: Encontre um produto e verifique as informações sobre o prazo de entrega.</td>
-      <td>0</td>
-      <td>!</td>
-      <td>0</td>
-      <td>Não realizou por erro durante o teste</td>
-    </tr>
-    <tr>
-      <td>T6: Selecionar uma variação: Encontre uma camiseta e escolha uma cor e um tamanho disponíveis.</td>
-      <td>16</td>
-      <td>✓</td>
-      <td>0</td>
-      <td>Realizou sem apresentar dificuldades</td>
-    </tr>
-    <tr>
-      <td>T7: Adicionar ao carrinho: Escolha um produto de sua preferência e adicione-o ao carrinho de compras.</td>
-      <td>3</td>
-      <td>✓</td>
-      <td>0</td>
-      <td>Realizou sem apresentar dificuldades</td>
-    </tr>
-    <tr>
-      <td>T8: Localizar o carrinho: Encontre os produtos que estão no seu carrinho de compras e verifique o preço total.</td>
-      <td>7</td>
-      <td>✓</td>
-      <td>0</td>
-      <td>Realizou sem apresentar dificuldades</td>
-    </tr>
-  </tbody>
-</table>
-</div>
+| Tarefa | Tempo (em segundos) | Resultado da tarefa | Erros | Observações |
+| :--- | :---: | :---: | :---: | :--- |
+| T1: Pesquisar um produto: Encontre um fone de ouvido no site do AliExpress. | 9 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T2: Buscar por preço: Encontre um mouse de computador que custe menos de R$ 50,00. | 17 | ! | 2 | Hesitou ao utilizar os filtros de busca |
+| T3: Visualizar um produto: Encontre um produto de sua preferência e consulte suas informações e características. | 30 | x | 5 | Não conseguiu executar a tarefa |
+| T4: Verificar avaliações: Encontre um produto e consulte as avaliações feitas por outros compradores. | 6 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T5: Consultar opções de entrega: Encontre um produto e verifique as informações sobre o prazo de entrega. | 0 | ! | 0 | Não realizou por erro durante o teste |
+| T6: Selecionar uma variação: Encontre uma camiseta e escolha uma cor e um tamanho disponíveis. | 16 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T7: Adicionar ao carrinho: Escolha um produto de sua preferência e adicione-o ao carrinho de compras. | 3 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T8: Localizar o carrinho: Encontre os produtos que estão no seu carrinho de compras e verifique o preço total. | 7 | ✓ | 0 | Realizou sem apresentar dificuldades |
 
 <div align="center"><em>Tabela 3 - Resultados do participante 3</em></div>
+</br>
 
-<div align="center">
-<table align="center">
-  <thead>
-    <tr>
-      <th>Tarefa</th>
-      <th>Tempo (em segundos)</th>
-      <th>Resultado da tarefa</th>
-      <th>Erros</th>
-      <th>Observações</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>T1: Pesquisar um produto: Encontre um fone de ouvido no site do AliExpress.</td>
-      <td>31</td>
-      <td>✓</td>
-      <td>0</td>
-      <td>Realizou sem apresentar dificuldades</td>
-    </tr>
-    <tr>
-      <td>T2: Buscar por preço: Encontre um mouse de computador que custe menos de R$ 50,00.</td>
-      <td>29</td>
-      <td>!</td>
-      <td>2</td>
-      <td>Hesitou ao utilizar os filtros de busca</td>
-    </tr>
-    <tr>
-      <td>T3: Visualizar um produto: Encontre um produto de sua preferência e consulte suas informações e características.</td>
-      <td>87</td>
-      <td>x</td>
-      <td>5</td>
-      <td>Não conseguiu executar a tarefa</td>
-    </tr>
-    <tr>
-      <td>T4: Verificar avaliações: Encontre um produto e consulte as avaliações feitas por outros compradores.</td>
-      <td>56</td>
-      <td>✓</td>
-      <td>0</td>
-      <td>Realizou sem apresentar dificuldades</td>
-    </tr>
-    <tr>
-      <td>T5: Consultar opções de entrega: Encontre um produto e verifique as informações sobre o prazo de entrega.</td>
-      <td>59</td>
-      <td>✓</td>
-      <td>0</td>
-      <td>Realizou sem apresentar dificuldades</td>
-    </tr>
-    <tr>
-      <td>T6: Selecionar uma variação: Encontre uma camiseta e escolha uma cor e um tamanho disponíveis.</td>
-      <td>109</td>
-      <td>✓</td>
-      <td>0</td>
-      <td>Realizou sem apresentar dificuldades</td>
-    </tr>
-    <tr>
-      <td>T7: Adicionar ao carrinho: Escolha um produto de sua preferência e adicione-o ao carrinho de compras.</td>
-      <td>68</td>
-      <td>✓</td>
-      <td>0</td>
-      <td>Realizou sem apresentar dificuldades</td>
-    </tr>
-    <tr>
-      <td>T8: Localizar o carrinho: Encontre os produtos que estão no seu carrinho de compras e verifique o preço total.</td>
-      <td>18</td>
-      <td>✓</td>
-      <td>0</td>
-      <td>Realizou sem apresentar dificuldades</td>
-    </tr>
-  </tbody>
-</table>
-</div>
+| Tarefa | Tempo (em segundos) | Resultado da tarefa | Erros | Observações |
+| :--- | :---: | :---: | :---: | :--- |
+| T1: Pesquisar um produto: Encontre um fone de ouvido no site do AliExpress. | 31 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T2: Buscar por preço: Encontre um mouse de computador que custe menos de R$ 50,00. | 29 | ! | 2 | Hesitou ao utilizar os filtros de busca |
+| T3: Visualizar um produto: Encontre um produto de sua preferência e consulte suas informações e características. | 87 | x | 5 | Não conseguiu executar a tarefa |
+| T4: Verificar avaliações: Encontre um produto e consulte as avaliações feitas por outros compradores. | 56 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T5: Consultar opções de entrega: Encontre um produto e verifique as informações sobre o prazo de entrega. | 59 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T6: Selecionar uma variação: Encontre uma camiseta e escolha uma cor e um tamanho disponíveis. | 109 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T7: Adicionar ao carrinho: Escolha um produto de sua preferência e adicione-o ao carrinho de compras. | 68 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T8: Localizar o carrinho: Encontre os produtos que estão no seu carrinho de compras e verifique o preço total. | 18 | ✓ | 0 | Realizou sem apresentar dificuldades |
 
 <div align="center"><em>Tabela 4 - Resultados do participante 4</em></div>
+</br>
 
-<div align="center">
-<table align="center">
-  <thead>
-    <tr>
-      <th>Tarefa</th>
-      <th>Tempo (em segundos)</th>
-      <th>Resultado da tarefa</th>
-      <th>Erros</th>
-      <th>Observações</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>T1: Pesquisar um produto: Encontre um fone de ouvido no site do AliExpress.</td>
-      <td>19</td>
-      <td>✓</td>
-      <td>0</td>
-      <td>Realizou sem apresentar dificuldades</td>
-    </tr>
-    <tr>
-      <td>T2: Buscar por preço: Encontre um mouse de computador que custe menos de R$ 50,00.</td>
-      <td>39</td>
-      <td>!</td>
-      <td>2</td>
-      <td>Hesitou ao utilizar os filtros de busca</td>
-    </tr>
-    <tr>
-      <td>T3: Visualizar um produto: Encontre um produto de sua preferência e consulte suas informações e características.</td>
-      <td>82</td>
-      <td>x</td>
-      <td>5</td>
-      <td>Não conseguiu executar a tarefa</td>
-    </tr>
-    <tr>
-      <td>T4: Verificar avaliações: Encontre um produto e consulte as avaliações feitas por outros compradores.</td>
-      <td>não cronometrado</td>
-      <td>x</td>
-      <td>0</td>
-      <td>desistiu da tarefa</td>
-    </tr>
-    <tr>
-      <td>T5: Consultar opções de entrega: Encontre um produto e verifique as informações sobre o prazo de entrega.</td>
-      <td>20</td>
-      <td>✓</td>
-      <td>0</td>
-      <td>Realizou sem apresentar dificuldades</td>
-    </tr>
-    <tr>
-      <td>T6: Selecionar uma variação: Encontre uma camiseta e escolha uma cor e um tamanho disponíveis.</td>
-      <td>32</td>
-      <td>✓</td>
-      <td>0</td>
-      <td>Realizou sem apresentar dificuldades</td>
-    </tr>
-    <tr>
-      <td>T7: Adicionar ao carrinho: Escolha um produto de sua preferência e adicione-o ao carrinho de compras.</td>
-      <td>9</td>
-      <td>✓</td>
-      <td>0</td>
-      <td>Realizou sem apresentar dificuldades</td>
-    </tr>
-    <tr>
-      <td>T8: Localizar o carrinho: Encontre os produtos que estão no seu carrinho de compras e verifique o preço total.</td>
-      <td>31</td>
-      <td>✓</td>
-      <td>0</td>
-      <td>Realizou sem apresentar dificuldades</td>
-    </tr>
-  </tbody>
-</table>
-</div>
+| Tarefa | Tempo (em segundos) | Resultado da tarefa | Erros | Observações |
+| :--- | :---: | :---: | :---: | :--- |
+| T1: Pesquisar um produto: Encontre um fone de ouvido no site do AliExpress. | 19 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T2: Buscar por preço: Encontre um mouse de computador que custe menos de R$ 50,00. | 39 | ! | 2 | Hesitou ao utilizar os filtros de busca |
+| T3: Visualizar um produto: Encontre um produto de sua preferência e consulte suas informações e características. | 82 | x | 5 | Não conseguiu executar a tarefa |
+| T4: Verificar avaliações: Encontre um produto e consulte as avaliações feitas por outros compradores. | não cronometrado | x | 0 | desistiu da tarefa |
+| T5: Consultar opções de entrega: Encontre um produto e verifique as informações sobre o prazo de entrega. | 20 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T6: Selecionar uma variação: Encontre uma camiseta e escolha uma cor e um tamanho disponíveis. | 32 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T7: Adicionar ao carrinho: Escolha um produto de sua preferência e adicione-o ao carrinho de compras. | 9 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T8: Localizar o carrinho: Encontre os produtos que estão no seu carrinho de compras e verifique o preço total. | 31 | ✓ | 0 | Realizou sem apresentar dificuldades |
 
 <div align="center"><em>Tabela 5 - Resultados do participante 5</em></div>
+</br>
 
-<div align="center">
-<table align="center">
-  <thead>
-    <tr>
-      <th>Tarefa</th>
-      <th>Tempo (em segundos)</th>
-      <th>Resultado da tarefa</th>
-      <th>Erros</th>
-      <th>Observações</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>T1: Pesquisar um produto: Encontre um fone de ouvido no site do AliExpress.</td>
-      <td>13</td>
-      <td>✓</td>
-      <td>0</td>
-      <td>Realizou sem apresentar dificuldades</td>
-    </tr>
-    <tr>
-      <td>T2: Buscar por preço: Encontre um mouse de computador que custe menos de R$ 50,00.</td>
-      <td>30</td>
-      <td>!</td>
-      <td>2</td>
-      <td>Hesitou ao utilizar os filtros de busca</td>
-    </tr>
-    <tr>
-      <td>T3: Visualizar um produto: Encontre um produto de sua preferência e consulte suas informações e características.</td>
-      <td>30</td>
-      <td>x</td>
-      <td>5</td>
-      <td>Não conseguiu executar a tarefa</td>
-    </tr>
-    <tr>
-      <td>T4: Verificar avaliações: Encontre um produto e consulte as avaliações feitas por outros compradores.</td>
-      <td>138</td>
-      <td>x</td>
-      <td>0</td>
-      <td>não conseguiu realizar a tarefa</td>
-    </tr>
-    <tr>
-      <td>T5: Consultar opções de entrega: Encontre um produto e verifique as informações sobre o prazo de entrega.</td>
-      <td>18</td>
-      <td>✓</td>
-      <td>0</td>
-      <td>Realizou sem apresentar dificuldades</td>
-    </tr>
-    <tr>
-      <td>T6: Selecionar uma variação: Encontre uma camiseta e escolha uma cor e um tamanho disponíveis.</td>
-      <td>39</td>
-      <td>✓</td>
-      <td>0</td>
-      <td>Realizou sem apresentar dificuldades</td>
-    </tr>
-    <tr>
-      <td>T7: Adicionar ao carrinho: Escolha um produto de sua preferência e adicione-o ao carrinho de compras.</td>
-      <td>14</td>
-      <td>✓</td>
-      <td>0</td>
-      <td>Realizou sem apresentar dificuldades</td>
-    </tr>
-    <tr>
-      <td>T8: Localizar o carrinho: Encontre os produtos que estão no seu carrinho de compras e verifique o preço total.</td>
-      <td>27</td>
-      <td>✓</td>
-      <td>0</td>
-      <td>Realizou sem apresentar dificuldades</td>
-    </tr>
-  </tbody>
-</table>
-</div>
+| Tarefa | Tempo (em segundos) | Resultado da tarefa | Erros | Observações |
+| :--- | :---: | :---: | :---: | :--- |
+| T1: Pesquisar um produto: Encontre um fone de ouvido no site do AliExpress. | 13 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T2: Buscar por preço: Encontre um mouse de computador que custe menos de R$ 50,00. | 30 | ! | 2 | Hesitou ao utilizar os filtros de busca |
+| T3: Visualizar um produto: Encontre um produto de sua preferência e consulte suas informações e características. | 30 | x | 5 | Não conseguiu executar a tarefa |
+| T4: Verificar avaliações: Encontre um produto e consulte as avaliações feitas por outros compradores. | 138 | x | 0 | não conseguiu realizar a tarefa |
+| T5: Consultar opções de entrega: Encontre um produto e verifique as informações sobre o prazo de entrega. | 18 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T6: Selecionar uma variação: Encontre uma camiseta e escolha uma cor e um tamanho disponíveis. | 39 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T7: Adicionar ao carrinho: Escolha um produto de sua preferência e adicione-o ao carrinho de compras. | 14 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T8: Localizar o carrinho: Encontre os produtos que estão no seu carrinho de compras e verifique o preço total. | 27 | ✓ | 0 | Realizou sem apresentar dificuldades |
 
 <div align="center"><em>Tabela 6 - Resultados do participante 6</em></div>
+</br>
 
-<div align="center">
-<table align="center">
-  <thead>
-    <tr>
-      <th>Tarefa</th>
-      <th>Tempo (em segundos)</th>
-      <th>Resultado da tarefa</th>
-      <th>Erros</th>
-      <th>Observações</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>T1: Pesquisar um produto: Encontre um fone de ouvido no site do AliExpress.</td>
-      <td>18</td>
-      <td>✓</td>
-      <td>0</td>
-      <td>Realizou sem apresentar dificuldades</td>
-    </tr>
-    <tr>
-      <td>T2: Buscar por preço: Encontre um mouse de computador que custe menos de R$ 50,00.</td>
-      <td>26</td>
-      <td>!</td>
-      <td>2</td>
-      <td>Hesitou ao utilizar os filtros de busca</td>
-    </tr>
-    <tr>
-      <td>T3: Visualizar um produto: Encontre um produto de sua preferência e consulte suas informações e características.</td>
-      <td>90</td>
-      <td>x</td>
-      <td>5</td>
-      <td>Não conseguiu executar a tarefa</td>
-    </tr>
-    <tr>
-      <td>T4: Verificar avaliações: Encontre um produto e consulte as avaliações feitas por outros compradores.</td>
-      <td>18</td>
-      <td>✓</td>
-      <td>0</td>
-      <td>Realizou sem apresentar dificuldades</td>
-    </tr>
-    <tr>
-      <td>T5: Consultar opções de entrega: Encontre um produto e verifique as informações sobre o prazo de entrega.</td>
-      <td>11</td>
-      <td>✓</td>
-      <td>0</td>
-      <td>Realizou sem apresentar dificuldades</td>
-    </tr>
-    <tr>
-      <td>T6: Selecionar uma variação: Encontre uma camiseta e escolha uma cor e um tamanho disponíveis.</td>
-      <td>37</td>
-      <td>✓</td>
-      <td>0</td>
-      <td>Realizou sem apresentar dificuldades</td>
-    </tr>
-    <tr>
-      <td>T7: Adicionar ao carrinho: Escolha um produto de sua preferência e adicione-o ao carrinho de compras.</td>
-      <td>2</td>
-      <td>✓</td>
-      <td>0</td>
-      <td>Realizou sem apresentar dificuldades</td>
-    </tr>
-    <tr>
-      <td>T8: Localizar o carrinho: Encontre os produtos que estão no seu carrinho de compras e verifique o preço total.</td>
-      <td>10</td>
-      <td>✓</td>
-      <td>0</td>
-      <td>Realizou sem apresentar dificuldades</td>
-    </tr>
-  </tbody>
-</table>
-</div>
+| Tarefa | Tempo (em segundos) | Resultado da tarefa | Erros | Observações |
+| :--- | :---: | :---: | :---: | :--- |
+| T1: Pesquisar um produto: Encontre um fone de ouvido no site do AliExpress. | 18 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T2: Buscar por preço: Encontre um mouse de computador que custe menos de R$ 50,00. | 26 | ! | 2 | Hesitou ao utilizar os filtros de busca |
+| T3: Visualizar um produto: Encontre um produto de sua preferência e consulte suas informações e características. | 90 | x | 5 | Não conseguiu executar a tarefa |
+| T4: Verificar avaliações: Encontre um produto e consulte as avaliações feitas por outros compradores. | 18 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T5: Consultar opções de entrega: Encontre um produto e verifique as informações sobre o prazo de entrega. | 11 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T6: Selecionar uma variação: Encontre uma camiseta e escolha uma cor e um tamanho disponíveis. | 37 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T7: Adicionar ao carrinho: Escolha um produto de sua preferência e adicione-o ao carrinho de compras. | 2 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T8: Localizar o carrinho: Encontre os produtos que estão no seu carrinho de compras e verifique o preço total. | 10 | ✓ | 0 | Realizou sem apresentar dificuldades |
 
 <div align="center"><em>Tabela 7 - Resultados do participante 7</em></div>
+</br>
 
-<div align="center">
-<table align="center">
-  <thead>
-    <tr>
-      <th>Tarefa</th>
-      <th>Tempo (em segundos)</th>
-      <th>Resultado da tarefa</th>
-      <th>Erros</th>
-      <th>Observações</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>T1: Pesquisar um produto: Encontre um fone de ouvido no site do AliExpress.</td>
-      <td>5</td>
-      <td>✓</td>
-      <td>0</td>
-      <td>Realizou sem apresentar dificuldades</td>
-    </tr>
-    <tr>
-      <td>T2: Buscar por preço: Encontre um mouse de computador que custe menos de R$ 50,00.</td>
-      <td>38</td>
-      <td>!</td>
-      <td>2</td>
-      <td>Hesitou ao utilizar os filtros de busca</td>
-    </tr>
-    <tr>
-      <td>T3: Visualizar um produto: Encontre um produto de sua preferência e consulte suas informações e características.</td>
-      <td>13</td>
-      <td>x</td>
-      <td>5</td>
-      <td>Não conseguiu executar a tarefa</td>
-    </tr>
-    <tr>
-      <td>T4: Verificar avaliações: Encontre um produto e consulte as avaliações feitas por outros compradores.</td>
-      <td>1</td>
-      <td>✓</td>
-      <td>0</td>
-      <td>Realizou sem apresentar dificuldades</td>
-    </tr>
-    <tr>
-      <td>T5: Consultar opções de entrega: Encontre um produto e verifique as informações sobre o prazo de entrega.</td>
-      <td>10</td>
-      <td>✓</td>
-      <td>0</td>
-      <td>Realizou sem apresentar dificuldades</td>
-    </tr>
-    <tr>
-      <td>T6: Selecionar uma variação: Encontre uma camiseta e escolha uma cor e um tamanho disponíveis.</td>
-      <td>33</td>
-      <td>✓</td>
-      <td>0</td>
-      <td>Realizou sem apresentar dificuldades</td>
-    </tr>
-    <tr>
-      <td>T7: Adicionar ao carrinho: Escolha um produto de sua preferência e adicione-o ao carrinho de compras.</td>
-      <td>2</td>
-      <td>✓</td>
-      <td>0</td>
-      <td>Realizou sem apresentar dificuldades</td>
-    </tr>
-    <tr>
-      <td>T8: Localizar o carrinho: Encontre os produtos que estão no seu carrinho de compras e verifique o preço total.</td>
-      <td>5</td>
-      <td>✓</td>
-      <td>0</td>
-      <td>Realizou sem apresentar dificuldades</td>
-    </tr>
-  </tbody>
-</table>
-</div>
+| Tarefa | Tempo (em segundos) | Resultado da tarefa | Erros | Observações |
+| :--- | :---: | :---: | :---: | :--- |
+| T1: Pesquisar um produto: Encontre um fone de ouvido no site do AliExpress. | 5 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T2: Buscar por preço: Encontre um mouse de computador que custe menos de R$ 50,00. | 38 | ! | 2 | Hesitou ao utilizar os filtros de busca |
+| T3: Visualizar um produto: Encontre um produto de sua preferência e consulte suas informações e características. | 13 | x | 5 | Não conseguiu executar a tarefa |
+| T4: Verificar avaliações: Encontre um produto e consulte as avaliações feitas por outros compradores. | 1 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T5: Consultar opções de entrega: Encontre um produto e verifique as informações sobre o prazo de entrega. | 10 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T6: Selecionar uma variação: Encontre uma camiseta e escolha uma cor e um tamanho disponíveis. | 33 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T7: Adicionar ao carrinho: Escolha um produto de sua preferência e adicione-o ao carrinho de compras. | 2 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T8: Localizar o carrinho: Encontre os produtos que estão no seu carrinho de compras e verifique o preço total. | 5 | ✓ | 0 | Realizou sem apresentar dificuldades |
 
 <div align="center"><em>Tabela 8 - Resultados do participante 8</em></div>
 
 ### Resumo por participante
-
-<div align="center">
-<table align="center">
-  <thead>
-    <tr>
-      <th>Participante</th>
-      <th>Sucesso ✓</th>
-      <th>Com dificuldade !</th>
-      <th>Insucesso X</th>
-      <th>Tempo total (s)</th>
-      <th>Total de erros</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>P01</td>
-      <td>2</td>
-      <td>1</td>
-      <td>0</td>
-      <td>405</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>P02</td>
-      <td>2</td>
-      <td>0</td>
-      <td>1</td>
-      <td>470</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>P03</td>
-      <td>1</td>
-      <td>1</td>
-      <td>1</td>
-      <td>485</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>P04</td>
-      <td>2</td>
-      <td>1</td>
-      <td>0</td>
-      <td>405</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>P05</td>
-      <td>2</td>
-      <td>0</td>
-      <td>1</td>
-      <td>470</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>P06</td>
-      <td>1</td>
-      <td>1</td>
-      <td>1</td>
-      <td>485</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>P07</td>
-      <td>2</td>
-      <td>1</td>
-      <td>0</td>
-      <td>405</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>P08</td>
-      <td>2</td>
-      <td>0</td>
-      <td>1</td>
-      <td>470</td>
-      <td>5</td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
+| Participante | Sucesso ✓ | Com dificuldade ! | Insucesso X | Tempo total (s) | Total de erros |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| P01 | 2 | 1 | 0 | 405 | 3 |
+| P02 | 2 | 0 | 1 | 470 | 5 |
+| P03 | 1 | 1 | 1 | 485 | 5 |
+| P04 | 2 | 1 | 0 | 405 | 3 |
+| P05 | 2 | 0 | 1 | 470 | 5 |
+| P06 | 1 | 1 | 1 | 485 | 5 |
+| P07 | 2 | 1 | 0 | 405 | 3 |
+| P08 | 2 | 0 | 1 | 470 | 5 |
 <div align="center"><em>Tabela 9 - Resumo por participante</em></div>
 
 ### Consolidação por tarefa
-
-<div align="center">
-<table align="center">
-  <thead>
-    <tr>
-      <th>Tarefa</th>
-      <th>TSR – Taxa de Sucesso (%)</th>
-      <th>TTR – Tempo médio da tarefa (%)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>T1 — Pesquisar um produto: Encontre um fone de ouvido no site do AliExpress.</td>
-      <td>66,7%</td>
-      <td>33,3%</td>
-    </tr>
-    <tr>
-      <td>T2 — Buscar por preço: Encontre um mouse de computador que custe menos de R$ 50,00.</td>
-      <td>33,3%</td>
-      <td>33,3%</td>
-    </tr>
-    <tr>
-      <td>T3 — Visualizar um produto: Encontre um produto de sua preferência e consulte suas informações e características.</td>
-      <td>66,7%</td>
-      <td>0%</td>
-    </tr>
-    <tr>
-      <td>T4 — Verificar avaliações: Encontre um produto e consulte as avaliações feitas por outros compradores.</td>
-      <td>66,7%</td>
-      <td>33,3%</td>
-    </tr>
-    <tr>
-      <td>T5 — Consultar opções de entrega: Encontre um produto e verifique as informações sobre o prazo de entrega.</td>
-      <td>33,3%</td>
-      <td>33,3%</td>
-    </tr>
-    <tr>
-      <td>T6 — Selecionar uma variação: Encontre uma camiseta e escolha uma cor e um tamanho disponíveis.</td>
-      <td>66,7%</td>
-      <td>0%</td>
-    </tr>
-    <tr>
-      <td>T7 — Adicionar ao carrinho: Escolha um produto de sua preferência e adicione-o ao carrinho de compras.</td>
-      <td>66,7%</td>
-      <td>33,3%</td>
-    </tr>
-    <tr>
-      <td>T8 — Localizar o carrinho: Encontre os produtos que estão no seu carrinho de compras e verifique o preço total.</td>
-      <td>33,3%</td>
-      <td>33,3%</td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
+| Tarefa | TSR – Taxa de Sucesso (%) | TTR – Tempo médio da tarefa (%) |
+| :--- | :---: | :---: |
+| T1 — Pesquisar um produto: Encontre um fone de ouvido no site do AliExpress.| 66,7% | 33,3% |
+| T2 — Buscar por preço: Encontre um mouse de computador que custe menos de R$ 50,00. | 33,3% | 33,3% |
+| T3 — Visualizar um produto: Encontre um produto de sua preferência e consulte suas informações e características. | 66,7% | 0% |
+| T4 — Verificar avaliações: Encontre um produto e consulte as avaliações feitas por outros compradores. | 66,7% | 33,3% |
+| T5 — Consultar opções de entrega: Encontre um produto e verifique as informações sobre o prazo de entrega. | 33,3% | 33,3% |
+| T6 — Selecionar uma variação: Encontre uma camiseta e escolha uma cor e um tamanho disponíveis. | 66,7% | 0% |
+| T7 — Adicionar ao carrinho: Escolha um produto de sua preferência e adicione-o ao carrinho de compras. | 66,7% | 33,3% |
+| T8 — Localizar o carrinho: Encontre os produtos que estão no seu carrinho de compras e verifique o preço total. | 33,3% | 33,3% |
 <div align="center"><em>Tabela 10 - Consolidação por tarefa</em></div>
 
 ### Respostas abertas e fatores de usabilidade
 **Pergunta 1:** Como você descreveu sua experiência geral ao realizar as tarefas no site do AliExpress?
 
-<div align="center">
-<table align="center">
-  <thead>
-    <tr>
-      <th>Participante</th>
-      <th>Resposta</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>P01</td>
-      <td>Mediano. Esperava mais otimização vinda do site.</td>
-    </tr>
-    <tr>
-      <td>P02</td>
-      <td>Boa</td>
-    </tr>
-    <tr>
-      <td>P03</td>
-      <td>Consegui realizar todas as tarefas, em uma ou duas demorei um minuto para realizar pois acho a interface do aliexpress com muita informação, mas no geral minha experiência foi boa.</td>
-    </tr>
-    <tr>
-      <td>P04</td>
-      <td>Boa</td>
-    </tr>
-    <tr>
-      <td>P05</td>
-      <td>básico</td>
-    </tr>
-    <tr>
-      <td>P06</td>
-      <td>muito fácil, satifatorio em consequir encontra os produtos.</td>
-    </tr>
-    <tr>
-      <td>P07</td>
-      <td>As tarefas foram realizadas de forma rápida e prática, sem apresentar dificuldades durante sua execução.</td>
-    </tr>
-    <tr>
-      <td>P08</td>
-      <td>A experiência é boa, porém algumas funcionalidades são confusas e a interface poluída</td>
-    </tr>
-  </tbody>
-</table>
-</div>
+| Participante | Resposta |
+|:------------:|----------|
+| P01 | Mediano. Esperava mais otimização vinda do site. |
+| P02 | Boa |
+| P03 | Consegui realizar todas as tarefas, em uma ou duas demorei um minuto para realizar pois acho a interface do aliexpress com muita informação, mas no geral minha experiência foi boa. |
+| P04 | Boa |
+| P05 | básico |
+| P06 | muito fácil, satifatorio em consequir encontra os produtos. |
+| P07 | As tarefas foram realizadas de forma rápida e prática, sem apresentar dificuldades durante sua execução. |
+| P08 | A experiência é boa, porém algumas funcionalidades são confusas e a interface poluída |
 
 <p align="center"><em>Tabela 11 - Respostas abertas</em></p>
 
 **Pergunta 2:** Você encontrou alguma dificuldade para realizar as tarefas? Se sim, descreva quais foram.
 
-<div align="center">
-<table align="center">
-  <thead>
-    <tr>
-      <th>Participante</th>
-      <th>Resposta</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>P01</td>
-      <td>Não encontrei nenhuma dificuldade.</td>
-    </tr>
-    <tr>
-      <td>P02</td>
-      <td>Não.</td>
-    </tr>
-    <tr>
-      <td>P03</td>
-      <td>como descrevi acho que a interface tem muita informação, e demorei um pouco para encontrar uma ou duas tarefas</td>
-    </tr>
-    <tr>
-      <td>P04</td>
-      <td>Não</td>
-    </tr>
-    <tr>
-      <td>P05</td>
-      <td>não</td>
-    </tr>
-    <tr>
-      <td>P06</td>
-      <td>sim, os comentários dos clientes sobre os produtos.</td>
-    </tr>
-    <tr>
-      <td>P07</td>
-      <td>não</td>
-    </tr>
-    <tr>
-      <td>P08</td>
-      <td>Sim. Por conta da poluição</td>
-    </tr>
-  </tbody>
-</table>
-</div>
+| Participante | Resposta |
+|:------------:|----------|
+| P01 | Não encontrei nenhuma dificuldade. |
+| P02 | Não. |
+| P03 | como descrevi acho que a interface tem muita informação, e demorei um pouco para encontrar uma ou duas tarefas |
+| P04 | Não |
+| P05 | não |
+| P06 | sim, os comentários dos clientes sobre os produtos. |
+| P07 | não |
+| P08 | Sim. Por conta da poluição |
 
 <p align="center"><em>Tabela 12 - Respostas abertas</em></p>
 
 **Pergunta 3:** O que você achou da facilidade de encontrar produtos e localizar as informações necessárias no site?
 
-<div align="center">
-<table align="center">
-  <thead>
-    <tr>
-      <th>Participante</th>
-      <th>Resposta</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>P01</td>
-      <td>a busca é boa</td>
-    </tr>
-    <tr>
-      <td>P02</td>
-      <td>informações poderiam ser mais visíveis.</td>
-    </tr>
-    <tr>
-      <td>P03</td>
-      <td>como também falei anteriormente, a interface é muito sobrecarregada de anuncios.</td>
-    </tr>
-    <tr>
-      <td>P04</td>
-      <td>os filtros e as avaliações ajudam bastante.</td>
-    </tr>
-    <tr>
-      <td>P05</td>
-      <td>Muitos anúncios.</td>
-    </tr>
-    <tr>
-      <td>P06</td>
-      <td>algumas informações são difíceis de encontrar.</td>
-    </tr>
-    <tr>
-      <td>P07</td>
-      <td>Navegação intuitiva e simples.</td>
-    </tr>
-    <tr>
-      <td>P08</td>
-      <td>Fácil.</td>
-    </tr>
-  </tbody>
-</table>
-</div>
+| Participante | Resposta |
+|:------------:|----------|
+| P01 | a busca é boa |
+| P02 | informações poderiam ser mais visíveis. |
+| P03 | como também falei anteriormente, a interface é muito sobrecarregada de anuncios. |
+| P04 | os filtros e as avaliações ajudam bastante. |
+| P05 | Muitos anúncios. |
+| P06 | algumas informações são difíceis de encontrar. |
+| P07 | Navegação intuitiva e simples. |
+| P08 | Fácil. |
 
 <p align="center"><em>Tabela 13 - Respostas abertas</em></p>
 
 **Pergunta 4:** Houve algum elemento ou funcionalidade no site que facilitou ou dificultou sua navegação? Se sim, qual?
 
-<div align="center">
-<table align="center">
-  <thead>
-    <tr>
-      <th>Participante</th>
-      <th>Resposta</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>P01</td>
-      <td>As promoções que FORÇAM o comprador a ir para uma aba específica da promoção, negando a compra singular do produto.</td>
-    </tr>
-    <tr>
-      <td>P02</td>
-      <td>Sim. O layt da página e um pouco poluída</td>
-    </tr>
-    <tr>
-      <td>P03</td>
-      <td>Interface com grande volume de dados, causando um pouco de sobrecarga cognitiva.</td>
-    </tr>
-    <tr>
-      <td>P04</td>
-      <td>Não</td>
-    </tr>
-    <tr>
-      <td>P05</td>
-      <td>não</td>
-    </tr>
-    <tr>
-      <td>P06</td>
-      <td>sim, facilitou na busca dos produtos.</td>
-    </tr>
-    <tr>
-      <td>P07</td>
-      <td>A função de ordenar os preços facilita a procura de um valor específico</td>
-    </tr>
-    <tr>
-      <td>P08</td>
-      <td>Sim. algumas funcionalidades foram de difícil acesso e compreensão</td>
-    </tr>
-  </tbody>
-</table>
-</div>
+| Participante | Resposta |
+|:------------:|----------|
+| P01 | As promoções que FORÇAM o comprador a ir para uma aba específica da promoção, negando a compra singular do produto. |
+| P02 | Sim. O layt da página e um pouco poluída |
+| P03 | Interface com grande volume de dados, causando um pouco de sobrecarga cognitiva. |
+| P04 | Não |
+| P05 | não |
+| P06 | sim, facilitou na busca dos produtos. |
+| P07 | A função de ordenar os preços facilita a procura de um valor específico |
+| P08 | Sim. algumas funcionalidades foram de difícil acesso e compreensão |
 
 <p align="center"><em>Tabela 14 - Respostas abertas</em></p>
 
 **Pergunta 5:** O que você mudaria ou melhoraria no site do AliExpress para tornar a experiência de uso mais fácil e agradável?
 
-<div align="center">
-<table align="center">
-  <thead>
-    <tr>
-      <th>Participante</th>
-      <th>Resposta</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>P01</td>
-      <td>Uma cor. Não gosto da cor Laranja.</td>
-    </tr>
-    <tr>
-      <td>P02</td>
-      <td>A forma de procura.</td>
-    </tr>
-    <tr>
-      <td>P03</td>
-      <td>Deixaria menos poluído, sem excesso de elementos.</td>
-    </tr>
-    <tr>
-      <td>P04</td>
-      <td>Melhorar o IHC do site</td>
-    </tr>
-    <tr>
-      <td>P05</td>
-      <td>Uma mudança sem imposto e produtos falsos</td>
-    </tr>
-    <tr>
-      <td>P06</td>
-      <td>quando aparecer o produto, a descrição do produto viesse ao lado.</td>
-    </tr>
-    <tr>
-      <td>P07</td>
-      <td>A descrição dos produtos poderia ser melhorada, apresentando informações mais claras e completas</td>
-    </tr>
-    <tr>
-      <td>P08</td>
-      <td>Um visual</td>
-    </tr>
-  </tbody>
-</table>
-</div>
+| Participante | Resposta |
+|:------------:|----------|
+| P01 | Uma cor. Não gosto da cor Laranja. |
+| P02 | A forma de procura. |
+| P03 | Deixaria menos poluído, sem excesso de elementos. |
+| P04 | Melhorar o IHC do site |
+| P05 | Uma mudança sem imposto e produtos falsos |
+| P06 | quando aparecer o produto, a descrição do produto viesse ao lado. |
+| P07 | A descrição dos produtos poderia ser melhorada, apresentando informações mais claras e completas |
+| P08 | Um visual |
 
 <p align="center"><em>Tabela 15 - Respostas abertas</em></p>
 
