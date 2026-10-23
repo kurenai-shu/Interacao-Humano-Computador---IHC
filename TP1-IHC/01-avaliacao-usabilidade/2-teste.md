@@ -286,3 +286,4 @@ O teste piloto foi um sucesso e não tivemos a necessidade de realizar ajustes.
 <p align="center"><em>Tabela 15 - Respostas abertas</em></p>
 
 ### Considerações sobre o Teste de Usabilidade
+O teste de usabilidade realizado no site AliExpress permitiu identificar facilidades e dificuldades durante a execução das tarefas. De modo geral, os participantes conseguiram realizar ações como pesquisar produtos, consultar avaliações e selecionar variações. Entretanto, foram observadas dificuldades no uso dos filtros de busca e na localização de informações, além de relatos sobre o excesso de anúncios e elementos na interface. As respostas ao questionário pós-teste reforçaram a necessidade de melhorar a organização visual, a clareza das descrições e a acessibilidade de algumas funcionalidades. Conclui-se que, apesar de o site oferecer recursos úteis para as compras on-line, existem oportunidades de melhoria para tornar a navegação mais intuitiva, organizada e eficiente.
