@@ -89,14 +89,14 @@ Durante a aplicação do teste de usabilidade no site AliExpress, pretende-se ob
 
 | Tarefa | Tempo (em segundos) | Resultado da tarefa | Erros | Observações |
 | :--- | :---: | :---: | :---: | :--- |
-| T1: Pesquisar um produto: Encontre um fone de ouvido no site do AliExpress. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
-| T2: Buscar por preço: Encontre um mouse de computador que custe menos de R$ 50,00. | 180 | ! | 2 | Hesitou ao utilizar os filtros de busca |
-| T3: Visualizar um produto: Encontre um produto de sua preferência e consulte suas informações e características. | 90 | x | 5 | Não conseguiu executar a tarefa |
-| T4: Verificar avaliações: Encontre um produto e consulte as avaliações feitas por outros compradores. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
-| T5: Consultar opções de entrega: Encontre um produto e verifique as informações sobre o prazo de entrega. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
-| T6: Selecionar uma variação: Encontre uma camiseta e escolha uma cor e um tamanho disponíveis. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
-| T7: Adicionar ao carrinho: Escolha um produto de sua preferência e adicione-o ao carrinho de compras. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
-| T8: Localizar o carrinho: Encontre os produtos que estão no seu carrinho de compras e verifique o preço total. | 95 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T1: Pesquisar um produto: Encontre um fone de ouvido no site do AliExpress. | 35 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T2: Buscar por preço: Encontre um mouse de computador que custe menos de R$ 50,00. | 51 | ! | 2 | Hesitou ao utilizar os filtros de busca |
+| T3: Visualizar um produto: Encontre um produto de sua preferência e consulte suas informações e características. | 43 | x | 5 | Não conseguiu executar a tarefa |
+| T4: Verificar avaliações: Encontre um produto e consulte as avaliações feitas por outros compradores. | 62 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T5: Consultar opções de entrega: Encontre um produto e verifique as informações sobre o prazo de entrega. | 125 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T6: Selecionar uma variação: Encontre uma camiseta e escolha uma cor e um tamanho disponíveis. | 86 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T7: Adicionar ao carrinho: Escolha um produto de sua preferência e adicione-o ao carrinho de compras. | 7 | ✓ | 0 | Realizou sem apresentar dificuldades |
+| T8: Localizar o carrinho: Encontre os produtos que estão no seu carrinho de compras e verifique o preço total. | 12 | ✓ | 0 | Realizou sem apresentar dificuldades |
 
 <div align="center"> Tabela 3 - Resultados do participante 3 </div>
 </br>
