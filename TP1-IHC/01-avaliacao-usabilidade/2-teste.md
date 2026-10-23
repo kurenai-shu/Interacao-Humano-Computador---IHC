@@ -32,55 +32,55 @@ Durante a aplicação do teste de usabilidade no site AliExpress, pretende-se ob
 <div align="center">
   <img height="200" alt="Google Meet com Rostos Pixelados e AliExpress" src="https://github.com/user-attachments/assets/6fbf044a-72fe-4541-ac75-b611f4b7b616" />
   <br>
-  Figura 1 — Participante P00 durante a realização do teste piloto
+  <em>Figura 1 — Participante P00 durante a realização do teste piloto</em>
 </div>
 
 <div align="center">
   <img height="200" alt="WhatsApp Image 2026-10-22 at 21 10 40" src="https://github.com/user-attachments/assets/47be8101-c35a-4bdb-b3b8-9d06f976439f" />
   <br>
-  Figura 2 — Participante P01 durante a realização do teste
+  <em>Figura 2 — Participante P01 durante a realização do teste</em>
 </div>
 
 <div align="center">
   <img height="200" alt="WhatsApp Image 2026-10-22 at 21 09 01" src="https://github.com/user-attachments/assets/101d3c4d-46fa-4a74-9a4e-42f6f4c673d7" />
   <br>
-  Figura 3 — Participante P02 durante a realização do teste
+  <em>Figura 3 — Participante P02 durante a realização do teste</em>
 </div>
 
 <div align="center">
   <img height="200" alt="WhatsApp Image 2026-10-22 at 21 03 39" src="https://github.com/user-attachments/assets/719d951e-dcb8-4952-bb69-979ccf050119" />
   <br>
-  Figura 4 — Participante P03 durante a realização do teste
+  <em>Figura 4 — Participante P03 durante a realização do teste</em>
 </div>
 
 <div align="center">
   <img height="200" alt="WhatsApp Image 2026-10-22 at 21 02 23" src="https://github.com/user-attachments/assets/7a12e5d8-8389-4cdb-8660-756e8ecf8c71" />
   <br>
-  Figura 5 — Participante P04 durante a realização do teste
+  <em>Figura 5 — Participante P04 durante a realização do teste</em>
 </div>
 
 <div align="center">
   <img height="200" alt="WhatsApp Image 2026-10-22 at 21 01 19" src="https://github.com/user-attachments/assets/c82b552c-ab8d-41e8-9904-8d42e1495fbd" />
   <br>
-  Figura 6 — Participante P05 durante a realização do teste
+  <em>Figura 6 — Participante P05 durante a realização do teste</em>
 </div>
 
 <div align="center">
   <img height="200" alt="WhatsApp Image 2026-10-22 at 20 59 24" src="https://github.com/user-attachments/assets/c2dfb504-402a-4a0c-9c2e-e5407a76c9c3" />
   <br>
-  Figura 7 — Participante P06 durante a realização do teste
+  <em>Figura 7 — Participante P06 durante a realização do teste</em>
 </div>
 
 <div align="center">
   <img height="200" alt="WhatsApp Image 2026-10-22 at 20 57 34" src="https://github.com/user-attachments/assets/7486e2a1-c549-43b6-afb5-49afe810aebe" />
   <br>
-  Figura 8 — Participante P07 durante a realização do teste
+  <em>Figura 8 — Participante P07 durante a realização do teste</em>
 </div>
 
 <div align="center">
   <img height="200" alt="WhatsApp Image 2026-10-22 at 20 55 32" src="https://github.com/user-attachments/assets/e56f3b59-e97f-4a9d-9dfa-f8f044c5e86b" />
   <br>
-  Figura 9 — Participante P08 durante a realização do teste
+  <em>Figura 9 — Participante P08 durante a realização do teste</em>
 </div>
 
 
@@ -97,7 +97,7 @@ Durante a aplicação do teste de usabilidade no site AliExpress, pretende-se ob
 | T7: Adicionar ao carrinho: Escolha um produto de sua preferência e adicione-o ao carrinho de compras. | 7 | ✓ | 0 | Realizou sem apresentar dificuldades |
 | T8: Localizar o carrinho: Encontre os produtos que estão no seu carrinho de compras e verifique o preço total. | 12 | ✓ | 0 | Realizou sem apresentar dificuldades |
 
-<div align="center"> Tabela 1 - Resultados do participante 1 </div>
+<div align="center"><em>Tabela 1 - Resultados do participante 1</em></div>
 </br>
 
 | Tarefa | Tempo (em segundos) | Resultado da tarefa | Erros | Observações |
@@ -111,7 +111,7 @@ Durante a aplicação do teste de usabilidade no site AliExpress, pretende-se ob
 | T7: Adicionar ao carrinho: Escolha um produto de sua preferência e adicione-o ao carrinho de compras. | 5 | ✓ | 0 | Realizou sem apresentar dificuldades |
 | T8: Localizar o carrinho: Encontre os produtos que estão no seu carrinho de compras e verifique o preço total. | 13 | ✓ | 0 | Realizou sem apresentar dificuldades |
 
-<div align="center"> Tabela 2 - Resultados do participante 2 </div>
+<div align="center"><em>Tabela 2 - Resultados do participante 2</em></div>
 </br>
 
 | Tarefa | Tempo (em segundos) | Resultado da tarefa | Erros | Observações |
@@ -125,7 +125,7 @@ Durante a aplicação do teste de usabilidade no site AliExpress, pretende-se ob
 | T7: Adicionar ao carrinho: Escolha um produto de sua preferência e adicione-o ao carrinho de compras. | 3 | ✓ | 0 | Realizou sem apresentar dificuldades |
 | T8: Localizar o carrinho: Encontre os produtos que estão no seu carrinho de compras e verifique o preço total. | 7 | ✓ | 0 | Realizou sem apresentar dificuldades |
 
-<div align="center"> Tabela 3 - Resultados do participante 3 </div>
+<div align="center"><em>Tabela 3 - Resultados do participante 3</em></div>
 </br>
 
 | Tarefa | Tempo (em segundos) | Resultado da tarefa | Erros | Observações |
@@ -139,7 +139,7 @@ Durante a aplicação do teste de usabilidade no site AliExpress, pretende-se ob
 | T7: Adicionar ao carrinho: Escolha um produto de sua preferência e adicione-o ao carrinho de compras. | 68 | ✓ | 0 | Realizou sem apresentar dificuldades |
 | T8: Localizar o carrinho: Encontre os produtos que estão no seu carrinho de compras e verifique o preço total. | 18 | ✓ | 0 | Realizou sem apresentar dificuldades |
 
-<div align="center"> Tabela 4 - Resultados do participante 4 </div>
+<div align="center"><em>Tabela 4 - Resultados do participante 4</em></div>
 </br>
 
 | Tarefa | Tempo (em segundos) | Resultado da tarefa | Erros | Observações |
@@ -153,7 +153,7 @@ Durante a aplicação do teste de usabilidade no site AliExpress, pretende-se ob
 | T7: Adicionar ao carrinho: Escolha um produto de sua preferência e adicione-o ao carrinho de compras. | 9 | ✓ | 0 | Realizou sem apresentar dificuldades |
 | T8: Localizar o carrinho: Encontre os produtos que estão no seu carrinho de compras e verifique o preço total. | 31 | ✓ | 0 | Realizou sem apresentar dificuldades |
 
-<div align="center"> Tabela 5 - Resultados do participante 5 </div>
+<div align="center"><em>Tabela 5 - Resultados do participante 5</em></div>
 </br>
 
 | Tarefa | Tempo (em segundos) | Resultado da tarefa | Erros | Observações |
@@ -167,7 +167,7 @@ Durante a aplicação do teste de usabilidade no site AliExpress, pretende-se ob
 | T7: Adicionar ao carrinho: Escolha um produto de sua preferência e adicione-o ao carrinho de compras. | 14 | ✓ | 0 | Realizou sem apresentar dificuldades |
 | T8: Localizar o carrinho: Encontre os produtos que estão no seu carrinho de compras e verifique o preço total. | 27 | ✓ | 0 | Realizou sem apresentar dificuldades |
 
-<div align="center"> Tabela 6 - Resultados do participante 6 </div>
+<div align="center"><em>Tabela 6 - Resultados do participante 6</em></div>
 </br>
 
 | Tarefa | Tempo (em segundos) | Resultado da tarefa | Erros | Observações |
@@ -181,7 +181,7 @@ Durante a aplicação do teste de usabilidade no site AliExpress, pretende-se ob
 | T7: Adicionar ao carrinho: Escolha um produto de sua preferência e adicione-o ao carrinho de compras. | 2 | ✓ | 0 | Realizou sem apresentar dificuldades |
 | T8: Localizar o carrinho: Encontre os produtos que estão no seu carrinho de compras e verifique o preço total. | 10 | ✓ | 0 | Realizou sem apresentar dificuldades |
 
-<div align="center"> Tabela 7 - Resultados do participante 7 </div>
+<div align="center"><em>Tabela 7 - Resultados do participante 7</em></div>
 </br>
 
 | Tarefa | Tempo (em segundos) | Resultado da tarefa | Erros | Observações |
@@ -195,7 +195,7 @@ Durante a aplicação do teste de usabilidade no site AliExpress, pretende-se ob
 | T7: Adicionar ao carrinho: Escolha um produto de sua preferência e adicione-o ao carrinho de compras. | 2 | ✓ | 0 | Realizou sem apresentar dificuldades |
 | T8: Localizar o carrinho: Encontre os produtos que estão no seu carrinho de compras e verifique o preço total. | 5 | ✓ | 0 | Realizou sem apresentar dificuldades |
 
-<div align="center"> Tabela 8 - Resultados do participante 8 </div>
+<div align="center"><em>Tabela 8 - Resultados do participante 8</em></div>
 
 ### Resumo por participante
 | Participante | Sucesso ✓ | Com dificuldade ! | Insucesso X | Tempo total (s) | Total de erros |
@@ -208,7 +208,7 @@ Durante a aplicação do teste de usabilidade no site AliExpress, pretende-se ob
 | P06 | 1 | 1 | 1 | 485 | 5 |
 | P07 | 2 | 1 | 0 | 405 | 3 |
 | P08 | 2 | 0 | 1 | 470 | 5 |
-<div align="center"> Tabela 9 - Resumo por participante </div>
+<div align="center"><em>Tabela 9 - Resumo por participante</em></div>
 
 ### Consolidação por tarefa
 | Tarefa | TSR – Taxa de Sucesso (%) | TTR – Tempo médio da tarefa (%) |
@@ -221,7 +221,7 @@ Durante a aplicação do teste de usabilidade no site AliExpress, pretende-se ob
 | T6 — Selecionar uma variação: Encontre uma camiseta e escolha uma cor e um tamanho disponíveis. | 66,7% | 0% |
 | T7 — Adicionar ao carrinho: Escolha um produto de sua preferência e adicione-o ao carrinho de compras. | 66,7% | 33,3% |
 | T8 — Localizar o carrinho: Encontre os produtos que estão no seu carrinho de compras e verifique o preço total. | 33,3% | 33,3% |
-<div align="center"> Tabela 10 - Consolidação por tarefa</div>
+<div align="center"><em>Tabela 10 - Consolidação por tarefa</em></div>
 
 ### Respostas abertas e fatores de usabilidade
 [Inserir tabela e explicação]
