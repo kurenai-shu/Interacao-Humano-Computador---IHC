@@ -82,6 +82,9 @@ Os registros da execução serviram de base para a análise posterior, permitind
 Após a aplicação dos testes, os dados coletados foram organizados para analisar o desempenho dos participantes. Foram considerados os tempos de execução, os erros, a conclusão das tarefas e as respostas ao questionário pós-teste, buscando identificar padrões de facilidade e dificuldade no uso do AliExpress.
 
 ### Resultados por participante
+
+Para oferecer uma visão geral do desempenho dos usuários, foi elaborado um resumo com a quantidade de tarefas concluídas, as dificuldades registradas, os insucessos, o tempo total e os erros observados.
+
 | Tarefa | Tempo (em segundos) | Resultado da tarefa | Erros | Observações |
 | :--- | :---: | :---: | :---: | :--- |
 | T1: Pesquisar um produto: Encontre um fone de ouvido no site do AliExpress. | 35 | ✓ | 0 | Realizou sem apresentar dificuldades |
@@ -193,7 +196,14 @@ Após a aplicação dos testes, os dados coletados foram organizados para analis
 
 <div align="center"><em>Tabela 8 - Resultados do participante 8</em></div>
 
+---
+
+A análise individual permitiu identificar diferenças entre os participantes e destacar as tarefas que apresentaram maior dificuldade durante a execução.
+
 ### Resumo por participante
+
+Para oferecer uma visão geral do desempenho dos usuários, foi elaborado um resumo com a quantidade de tarefas concluídas, as dificuldades registradas, os insucessos, o tempo total e os erros observados.
+
 | Participante | Sucesso ✓ | Com dificuldade ! | Insucesso X | Tempo total (s) | Total de erros |
 | :--- | :---: | :---: | :---: | :---: | :---: |
 | P01 | 2 | 1 | 0 | 405 | 3 |
@@ -206,7 +216,14 @@ Após a aplicação dos testes, os dados coletados foram organizados para analis
 | P08 | 2 | 0 | 1 | 470 | 5 |
 <div align="center"><em>Tabela 9 - Resumo por participante</em></div>
 
+---
+
+Essa consolidação facilita a comparação entre os participantes e contribui para identificar aspectos recorrentes que merecem atenção na avaliação da usabilidade.
+
 ### Consolidação por tarefa
+
+Nesta seção, os resultados foram agrupados por tarefa para verificar quais atividades apresentaram maior facilidade ou dificuldade para os participantes.
+
 | Tarefa | TSR – Taxa de Sucesso (%) | TTR – Tempo médio da tarefa (%) |
 | :--- | :---: | :---: |
 | T1 — Pesquisar um produto: Encontre um fone de ouvido no site do AliExpress.| 66,7% | 33,3% |
@@ -219,7 +236,16 @@ Após a aplicação dos testes, os dados coletados foram organizados para analis
 | T8 — Localizar o carrinho: Encontre os produtos que estão no seu carrinho de compras e verifique o preço total. | 33,3% | 33,3% |
 <div align="center"><em>Tabela 10 - Consolidação por tarefa</em></div>
 
+---
+
+A comparação entre as tarefas ajuda a destacar possíveis problemas de usabilidade, especialmente nas atividades que exigiram mais esforço ou não foram concluídas com sucesso.
+
 ### Respostas abertas e fatores de usabilidade
+
+Além dos dados quantitativos, foram analisadas as respostas abertas do questionário pós-teste para compreender a percepção dos participantes sobre a experiência de navegação, as dificuldades encontradas e as melhorias sugeridas.
+
+---
+
 **Pergunta 1:** Como você descreveu sua experiência geral ao realizar as tarefas no site do AliExpress?
 
 | Participante | Resposta |
@@ -295,5 +321,12 @@ Após a aplicação dos testes, os dados coletados foram organizados para analis
 
 <p align="center"><em>Tabela 15 - Respostas abertas</em></p>
 
+---
+
+As respostas apontaram aspectos positivos, como a facilidade de busca e a utilidade dos filtros, mas também evidenciaram oportunidades de melhoria na organização visual, na apresentação das informações e na compreensão de algumas funcionalidades.
+
 ### Considerações sobre o Teste de Usabilidade
+
+---
+
 O teste de usabilidade realizado no site AliExpress permitiu identificar facilidades e dificuldades durante a execução das tarefas. De modo geral, os participantes conseguiram realizar ações como pesquisar produtos, consultar avaliações e selecionar variações. Entretanto, foram observadas dificuldades no uso dos filtros de busca e na localização de informações, além de relatos sobre o excesso de anúncios e elementos na interface. As respostas ao questionário pós-teste reforçaram a necessidade de melhorar a organização visual, a clareza das descrições e a acessibilidade de algumas funcionalidades. Conclui-se que, apesar de o site oferecer recursos úteis para as compras on-line, existem oportunidades de melhoria para tornar a navegação mais intuitiva, organizada e eficiente.
