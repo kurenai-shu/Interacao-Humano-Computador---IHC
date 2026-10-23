@@ -29,7 +29,7 @@ Durante a aplicação do teste de usabilidade no site AliExpress, pretende-se ob
 ## 3. Execução
 ### Evidências
 
-<img height="600" alt="Google Meet com Rostos Pixelados e AliExpress" src="https://github.com/user-attachments/assets/6fbf044a-72fe-4541-ac75-b611f4b7b616" />
+<img height="350" alt="Google Meet com Rostos Pixelados e AliExpress" src="https://github.com/user-attachments/assets/6fbf044a-72fe-4541-ac75-b611f4b7b616" />
 
 *Figura 1 — Participante P00 durante a realização do teste piloto*
 ## 4. Análise dos Resultados
