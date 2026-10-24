@@ -146,7 +146,7 @@ Para oferecer uma visão geral do desempenho dos usuários, foi elaborado um res
 | T1: Pesquisar um produto: Encontre um fone de ouvido no site do AliExpress. | 19 | ✓ | 0 | Realizou sem apresentar dificuldades |
 | T2: Buscar por preço: Encontre um mouse de computador que custe menos de R$ 50,00. | 39 | ✓ | 0 | Realizou sem apresentar dificuldades |
 | T3: Visualizar um produto: Encontre um produto de sua preferência e consulte suas informações e características. | 82 | ✓ | 0 | Realizou sem apresentar dificuldades |
-| T4: Verificar avaliações: Encontre um produto e consulte as avaliações feitas por outros compradores. | não cronometrado | ✓ | 0 | Desistiu, site não exibiu as informações |
+| T4: Verificar avaliações: Encontre um produto e consulte as avaliações feitas por outros compradores. | não cronometrado | x | 0 | Desistiu, site não exibiu as informações |
 | T5: Consultar opções de entrega: Encontre um produto e verifique as informações sobre o prazo de entrega. | 20 | ✓ | 0 | Realizou sem apresentar dificuldades|
 | T6: Selecionar uma variação: Encontre uma camiseta e escolha uma cor e um tamanho disponíveis. | 32 | ✓ | 0 | Realizou sem apresentar dificuldades |
 | T7: Adicionar ao carrinho: Escolha um produto de sua preferência e adicione-o ao carrinho de compras. | 9 | ✓ | 0 | Realizou sem apresentar dificuldades |
@@ -206,14 +206,14 @@ Para oferecer uma visão geral do desempenho dos usuários, foi elaborado um res
 
 | Participante | Sucesso ✓ | Com dificuldade ! | Insucesso X | Tempo total (s) | Total de erros |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| P01 | 2 | 1 | 0 | 405 | 3 |
-| P02 | 2 | 0 | 1 | 470 | 5 |
-| P03 | 1 | 1 | 1 | 485 | 5 |
-| P04 | 2 | 1 | 0 | 405 | 3 |
-| P05 | 2 | 0 | 1 | 470 | 5 |
-| P06 | 1 | 1 | 1 | 485 | 5 |
-| P07 | 2 | 1 | 0 | 405 | 3 |
-| P08 | 2 | 0 | 1 | 470 | 5 |
+| P01 | 5 | 3 | 0 | 421 | 4 |
+| P02 | 7 | 1 | 0 | 157 | 1 |
+| P03 | 7 | 0 | 1 | 88 | 5 |
+| P04 | 4 | 4 | 0 | 457 | 7 |
+| P05 | 7 | 0 | 1 | 232 | 0 |
+| P06 | 7 | 0 | 1 | 309 | 1 |
+| P07 | 6 | 2 | 0 | 212 | 6 |
+| P08 | 7 | 1 | 0 | 107 | 2 |
 <div align="center"><em>Tabela 9 - Resumo por participante</em></div>
 
 ---
