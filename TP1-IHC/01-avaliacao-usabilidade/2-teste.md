@@ -226,14 +226,14 @@ Nesta seção, os resultados foram agrupados por tarefa para verificar quais ati
 
 | Tarefa | TSR – Taxa de Sucesso (%) | TTR – Tempo médio da tarefa (s) |
 | :--- | :---: | :---: |
-| T1 — Pesquisar um produto: Encontre um fone de ouvido no site do AliExpress.| 66,7% | 18,5 |
-| T2 — Buscar por preço: Encontre um mouse de computador que custe menos de R$ 50,00. | 33,3% | 31,87 |
-| T3 — Visualizar um produto: Encontre um produto de sua preferência e consulte suas informações e características. | 66,7% | 51 |
-| T4 — Verificar avaliações: Encontre um produto e consulte as avaliações feitas por outros compradores. | 66,7% | 21,15 |
-| T5 — Consultar opções de entrega: Encontre um produto e verifique as informações sobre o prazo de entrega. | 33,3% | 33 |
-| T6 — Selecionar uma variação: Encontre uma camiseta e escolha uma cor e um tamanho disponíveis. | 66,7% | 47,12 |
-| T7 — Adicionar ao carrinho: Escolha um produto de sua preferência e adicione-o ao carrinho de compras. | 66,7% | 13,75 |
-| T8 — Localizar o carrinho: Encontre os produtos que estão no seu carrinho de compras e verifique o preço total. | 33,3% | 15,37 |
+| T1 — Pesquisar um produto: Encontre um fone de ouvido no site do AliExpress.| 87,5% | 18,5 |
+| T2 — Buscar por preço: Encontre um mouse de computador que custe menos de R$ 50,00. | 87,5% | 31,87 |
+| T3 — Visualizar um produto: Encontre um produto de sua preferência e consulte suas informações e características. | 87,5% | 51 |
+| T4 — Verificar avaliações: Encontre um produto e consulte as avaliações feitas por outros compradores. | 71,42% | 21,15 |
+| T5 — Consultar opções de entrega: Encontre um produto e verifique as informações sobre o prazo de entrega. | 71,42% | 33 |
+| T6 — Selecionar uma variação: Encontre uma camiseta e escolha uma cor e um tamanho disponíveis. | 57,14% | 47,12 |
+| T7 — Adicionar ao carrinho: Escolha um produto de sua preferência e adicione-o ao carrinho de compras. | 87,5% | 13,75 |
+| T8 — Localizar o carrinho: Encontre os produtos que estão no seu carrinho de compras e verifique o preço total. | 100% | 15,37 |
 <div align="center"><em>Tabela 10 - Consolidação por tarefa</em></div>
 
 ---
