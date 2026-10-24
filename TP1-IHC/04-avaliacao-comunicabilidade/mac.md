@@ -2,7 +2,10 @@
 ## Método utilizado
 <div style="text-align: justify;">
   O Método de Avaliação de Comunicabilidade (MAC) é uma técnica da área de Interação Humano-Computador, fundamentada na Engenharia Semiótica, que serve para avaliar a qualidade da interface de um sistema a partir do ponto de vista da comunicação. Na prática, o MAC busca entender se a ideia do designer sobre como o sistema funciona foi transmitida de forma clara para o usuário através da tela. Durante os testes de uso, o método foca no mapeamento das chamadas **rupturas de comunicabilidade**, que são os momentos exatos em que essa conversa falha. 
-  Essas rupturas acontecem quando a pessoa trava, fica confusa ou comete um erro porque não entendeu o significado de um ícone, não achou o botão correto ou esperava uma resposta diferente do sistema. O avaliador identifica esses tropeços no vídeo da interação e atribui a eles "etiquetas" que traduzem o pensamento do usuário naquele instante — como *"Cadê?"*, *"O que é isso?"* ou *"Epa!"* —, o que ajuda a identificar se o problema foi apenas uma hesitação rápida (temporária) ou um bloqueio grave que impediu a conclusão do objetivo (completa), apontando exatamente o que precisa ser corrigido na interface.
+</div>
+
+<div style="text-align: justify;">
+ Essas rupturas acontecem quando a pessoa trava, fica confusa ou comete um erro porque não entendeu o significado de um ícone, não achou o botão correto ou esperava uma resposta diferente do sistema. O avaliador identifica esses tropeços no vídeo da interação e atribui a eles "etiquetas" que traduzem o pensamento do usuário naquele instante — como *"Cadê?"*, *"O que é isso?"* ou *"Epa!"* —, o que ajuda a identificar se o problema foi apenas uma hesitação rápida (temporária) ou um bloqueio grave que impediu a conclusão do objetivo (completa), apontando exatamente o que precisa ser corrigido na interface.
 </div>
 
 ## Participantes e tarefas
