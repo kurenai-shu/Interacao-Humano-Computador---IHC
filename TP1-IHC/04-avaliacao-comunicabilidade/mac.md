@@ -5,7 +5,9 @@
 </div>
 
 <div style="text-align: justify;">
+  
  Essas rupturas acontecem quando a pessoa trava, fica confusa ou comete um erro porque não entendeu o significado de um ícone, não achou o botão correto ou esperava uma resposta diferente do sistema. O avaliador identifica esses tropeços no vídeo da interação e atribui a eles "etiquetas" que traduzem o pensamento do usuário naquele instante — como *"Cadê?"*, *"O que é isso?"* ou *"Epa!"* —, o que ajuda a identificar se o problema foi apenas uma hesitação rápida (temporária) ou um bloqueio grave que impediu a conclusão do objetivo (completa), apontando exatamente o que precisa ser corrigido na interface.
+ 
 </div>
 
 ## Participantes e tarefas
