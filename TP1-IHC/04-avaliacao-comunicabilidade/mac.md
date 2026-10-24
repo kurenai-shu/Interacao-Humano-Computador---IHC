@@ -9,9 +9,8 @@
 </p>
 
 ## Participantes e tarefas
-Para realizar uma **Avaliação de Comunicabilidade** utilizando o método **MAC (Método de Avaliação de Comunicabilidade)** da Engenharia de Semiótica, o objetivo é observar se o usuário consegue compreender as intenções do designer expressas na interface do e-commerce (neste caso, a versão do AliExpress Brasil direcionada via anúncio de busca).
-
-Abaixo estão **10 tarefas** estruturadas para testar diferentes aspectos de navegação, busca, compreensão de sistema, ofertas, personalização e processo de compra no link fornecido:
+Para realizar uma **Avaliação de Comunicabilidade** utilizando o método **MAC (Método de Avaliação de Comunicabilidade)** da Engenharia de Semiótica, o objetivo é observar se o usuário consegue compreender as intenções do designer expressas na interface do e-commerce (neste caso, a versão do AliExpress Brasil direcionada via anúncio de busca), para nossos testes, utilizamos duas pessoas de cursos diferentes dentro da universidade, com diferentes experiências com tecnologia.
+E abaixo temos as 10 tarefas que foram propostas aos participantes para testar a comunicabilidade com o site
 
 ---
 
