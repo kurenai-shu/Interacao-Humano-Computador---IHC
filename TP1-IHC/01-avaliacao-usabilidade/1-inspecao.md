@@ -23,6 +23,8 @@
 
 ### Registros da avaliação 
 [Ambiente Notion](https://app.notion.com/p/Inspe-o-de-Usabilidade-TP1-3fde14836b5780f8ad03fcc796eda481)
+  <div align="center"><img height="350" alt="WhatsApp Image 2026-10-19 at 22 04 11" src="https://github.com/user-attachments/assets/3e114b55-50b4-4a6f-be03-8d373563ed0b" /> </div>
+  <div align="center">Figura 1 - Equipe fazendo a inspeção</div>
 
 ## Etapa 1 - Detecção
 - [Detecção - Sergio Roberto ](https://app.notion.com/p/Detec-o-S-rgio-Roberto-3ffe14836b5780109828d3a324d87a76) <br>
@@ -38,9 +40,7 @@
 ## Etapa 3 - Discriminação
 [Discriminação](https://app.notion.com/p/3ffe14836b578091b243e2ce2569fe7b?v=d9de14836b5783b1a85b08a22bd2b351)
 
-### Equipe realizando a discriminação
 
-  <img height="350" alt="WhatsApp Image 2026-10-19 at 22 04 11" src="https://github.com/user-attachments/assets/3e114b55-50b4-4a6f-be03-8d373563ed0b" />
 
 
 ## Etapa 4 - Relato dos resultados
