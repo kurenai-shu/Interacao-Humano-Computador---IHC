@@ -73,7 +73,7 @@ Explicar o que a tabela apresenta e discutir os resultados observados.
 
 ## Consolidação das etiquetas
 Na tabela a seguir temos os momentos em que os ususuários que fizeram o teste acabaram tendo dificuldades nas tarefas devido
-ao site da aliexpress, onde de forma falada ou não, foram detectados essas dificuldades durante o teste.
+ao site da aliexpress, onde de forma falada ou não, foram detectados essas dificuldades durante o processo.
 
 | Part. | Tarefa | Timestamp | Trecho observado | Etiqueta MAC | Interpretação |
 | :---: | :---: | :---: | :--- | :---: | :--- |
