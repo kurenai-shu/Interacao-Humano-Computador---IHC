@@ -66,8 +66,8 @@ Adicione dois produtos de vendedores ou categorias diferentes ao carrinho. Em se
 
 ## Registro das sessões
 [Apresentar o link dos vídeos]
-- [Vídeo do participante U1]
-- [Vídeo do participante U2]
+- [Vídeo do participante U1](https://youtu.be/EwzFZb-O6h0?si=dZZPMDpvJFt8ujzr)
+- [Vídeo do participante U2](https://youtu.be/1diFpv90oLQ?si=Yg4kuXeKsPX_GVX7)
 ## Etiquetagem das rupturas
 Durante a aplicação do método, os avaliadores analisam gravações de usuários realizando tarefas para identificar rupturas de comunicação — momentos em que o usuário demonstra confusão, frustração ou não compreende a mensagem passada pela interface. Para categorizar essas falhas, o MAC utiliza um conjunto de 13 etiquetas de comunicabilidade que "colocam palavras na boca do usuário". Quando organizadas em tabelas de tabulação e frequência, essas etiquetas mapeiam exatamente onde a comunicação falhou. Abaixo segue as 13 etiquetas do MAC
 <img width="475" height="572" alt="image" src="https://github.com/user-attachments/assets/226ad05f-9601-4114-9a14-cd441153a076" />
