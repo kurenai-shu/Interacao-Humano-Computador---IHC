@@ -1,4 +1,5 @@
 # Avaliação de Acessibilidade
+## Método utilizado
 [Texto]
 ## Escopo da avaliação
 Foram selecionadas as seguintes telas para inspeção:
