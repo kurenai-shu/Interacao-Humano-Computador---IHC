@@ -77,8 +77,18 @@ Explicar o que a tabela apresenta e discutir os resultados observados.
 | :---: | :---: | :---: | :--- | :---: | :--- |
 | U1 | T1 | 03:25 | "ele saiu" | Ué, o que houve? | produtos  diferentes do qual foi pesquisado |
 | U1 | T4 | 6:54 | "acho que não aparece aqui" | pra mim está bom | usuário não encontrou relógio e acreditou ter condluído a tarefa|
-| U1 | T4 | 6:56 | "e agora" | o participante não sabe encontrar o relógio|
-| U1 | T4 | 
+| U1 | T4 | 6:56 | cliques do usuário| "e agora" |  o participante não sabe encontrar o relógio|
+| U1 | T4 | 7:02 | "não, deixa eu ver" | vai de outro jeito | abandonou caminho anterior|
+| U1 | T4 | 7:20 | "não aparece" | desisto | usuário desiste de eoncotrar o relógio |
+| U1 | T6 | 10:45 | "... porque ele é frete grátis" | pra mim está bom | usuário acredita não ter taxa de importação por haver frete grátis |
+| U1 | T6 | 11:13 | "desisto" | desisto" | usuário não conclui a tarefa por completo | 
+| U1 | T7 | 13:01 | "sim, é só rolar pra baixo" | pra mim está bom | usuário acredita estar no caminho certo, contudo, não está |
+| U1 | T8 | 15:45 | "pronto" | pra mim está bom" | usuário acredita ter completado a tarefa |
+| U1 | T9 | 18:57 | "desisto" | desisto | usuário não consegue concluir a tarefa |
+| U1 | T10 | 19: 30 | "aqui? não" | epa | usuário comete um erro e tenta repará-lo | 
+| U1 | T10 | 19:55 | "não estou encontrando" | cadê? | o usuário ão encontra o que procura | 
+| U1 | T10 | 20:06 | "será que não é isso? | o que é isto | o usuário não consegue interpretar os signos apresentados |
+| U1 | T10 | 20:55 | "tá, vai" | socorro | pede ajuda online | 
 
 Apresentar os principais resultados da avaliação, destacando quais etiquetas apareceram com maior
 frequência, quais tarefas apresentaram mais rupturas e o que esses resultados indicam sobre a comunicação
