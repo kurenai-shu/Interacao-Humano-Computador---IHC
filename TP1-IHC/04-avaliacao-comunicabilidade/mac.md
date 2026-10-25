@@ -70,7 +70,9 @@ Adicione dois produtos de vendedores ou categorias diferentes ao carrinho. Em se
 - [Vídeo do participante U2]
 ## Etiquetagem das rupturas
 Durante a aplicação do método, os avaliadores analisam gravações de usuários realizando tarefas para identificar rupturas de comunicação — momentos em que o usuário demonstra confusão, frustração ou não compreende a mensagem passada pela interface. Para categorizar essas falhas, o MAC utiliza um conjunto de 13 etiquetas de comunicabilidade que "colocam palavras na boca do usuário". Quando organizadas em tabelas de tabulação e frequência, essas etiquetas mapeiam exatamente onde a comunicação falhou. Abaixo segue as 13 etiquetas do MAC
-[Etiquetas do MAC.pdf](https://github.com/user-attachments/files/33931121/Etiquetas.do.MAC.pdf)
+<img width="475" height="572" alt="image" src="https://github.com/user-attachments/assets/226ad05f-9601-4114-9a14-cd441153a076" />
+<img width="405" height="370" alt="image" src="https://github.com/user-attachments/assets/32b6a281-56fa-4e81-943c-bf9c3e90a07c" />
+
 
 
 ## Consolidação das etiquetas
