@@ -6,7 +6,6 @@
 <p style="text-align: justify;"> 
  Essas barreiras ocorrem devido a problemas como falta de textos alternativos, contraste inadequado, armadilhas de teclado, ausência de foco visível ou elementos sem identificação correta. O avaliador cataloga esses achados conforme a diretriz violada e a gravidade, indicando exatamente o que deve ser corrigido na interface.
 </p>
-[Texto]
 
 ## Escopo da avaliação
 Foram selecionadas as seguintes telas para inspeção:
