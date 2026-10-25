@@ -70,7 +70,14 @@ Se você estiver avaliando uma tela ou fluxo específico do AliExpress (como o p
 ## Processo utilizado
 [Explicar o processo utilizado: Detecção, coleção e discriminação]
 ## Resultados da inspeção
-[Texto]
+| Problema | Critério WCAG | Tela/Página | Frequência |
+| --- | --- | --- | --- |
+| Vídeo sem audiodescrição | 1.2.5 - Audiodescrição (pré-gravada) | Página de produto | ∞ |
+| Não há linguagem de sinais em áudios pré-gravados | 1.2.6 - Linguagem de sinal (pré-gravada) | Página de produto | ∞ |
+| Falta de clareza das informações relacionadas as taxas de importação de produtos estrangeiros | 1.4.3 - Contraste (mínimo) | Tela de produtos importados | ∞ |
+| Falta de contraste no texto "combo de ofertas" abaixo do card dos produtos| 1.4.3 - Contraste (mínimo) | Tela principal | ∞ |
+| Links que se disfarçam de itens e levam para outra tela | 3.2.5 Mudança mediante a solicitação | Tela inicial | ∞ |
+
 ### Síntese dos problemas encontrados
 Explicar o que a tabela apresenta e discutir os resultados observados.
 
