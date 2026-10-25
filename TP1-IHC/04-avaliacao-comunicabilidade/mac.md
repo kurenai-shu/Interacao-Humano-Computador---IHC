@@ -76,6 +76,8 @@ Explicar o que a tabela apresenta e discutir os resultados observados.
 | Part. | Tarefa | Timestamp | Trecho observado | Etiqueta MAC | Interpretação |
 | :---: | :---: | :---: | :--- | :---: | :--- |
 | U1 | T4 | 02:13 | "Hã... não encontro salvar" | Cadê? | Botão salvar fora do viewport |
+
+
 Apresentar os principais resultados da avaliação, destacando quais etiquetas apareceram com maior
 frequência, quais tarefas apresentaram mais rupturas e o que esses resultados indicam sobre a comunicação
 entre o sistema e os usuários.
