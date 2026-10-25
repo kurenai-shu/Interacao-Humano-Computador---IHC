@@ -72,7 +72,9 @@ Adicione dois produtos de vendedores ou categorias diferentes ao carrinho. Em se
 Explicar o que a tabela apresenta e discutir os resultados observados.
 
 ## Consolidação das etiquetas
-Explicar o que a tabela apresenta e discutir os resultados observados.
+Na tabela a seguir temos os momentos em que os ususuários que fizeram o teste acabaram tendo dificuldades nas tarefas devido
+ao site da aliexpress, onde de forma falada ou não, foram detectados essas dificuldades durante o teste.
+
 | Part. | Tarefa | Timestamp | Trecho observado | Etiqueta MAC | Interpretação |
 | :---: | :---: | :---: | :--- | :---: | :--- |
 | U1 | T1 | 03:25 | "ele saiu" | Ué, o que houve? | produtos  diferentes do qual foi pesquisado |
