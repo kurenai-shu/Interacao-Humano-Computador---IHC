@@ -6,25 +6,20 @@ Nesta etapa, foram definidos o objetivo do teste, as tarefas que seriam realizad
 ### Objetivo do teste
 Durante a aplicação do teste de usabilidade no site AliExpress, pretende-se obeservar a facilidade que os usuários possuem para realizar determinadas ações no sistema.
 ### Tarefas
-1. Pesquisar um produto: Encontre um fone de ouvido no site do AliExpress.
-
-2. Buscar por preço: Encontre um mouse de computador que custe menos de R$ 50,00.
-
-3. Visualizar um produto: Encontre um produto de sua preferência e consulte suas informações e características.
-
-4. Verificar avaliações: Encontre um produto e consulte as avaliações feitas por outros compradores.
-
-5. Consultar opções de entrega: Encontre um produto e verifique as informações sobre o prazo de entrega.
-
-6. Selecionar uma variação: Encontre uma camiseta e escolha uma cor e um tamanho disponíveis.
-
-7. Adicionar ao carrinho: Escolha um produto de sua preferência e adicione-o ao carrinho de compras.
-
-8. Localizar o carrinho: Encontre os produtos que estão no seu carrinho de compras e verifique o preço total.
+| # | Tarefa | Descrição da Ação |
+| :---: | :--- | :--- |
+| **1** | Pesquisar um produto | Encontre um fone de ouvido no site do AliExpress. |
+| **2** | Buscar por preço | Encontre um mouse de computador que custe menos de R$ 50,00. |
+| **3** | Visualizar um produto | Encontre um produto de sua preferência e consulte suas informações e características. |
+| **4** | Verificar avaliações | Encontre um produto e consulte as avaliações feitas por outros compradores. |
+| **5** | Consultar opções de entrega | Encontre um produto e verifique as informações sobre o prazo de entrega. |
+| **6** | Selecionar uma variação | Encontre uma camiseta e escolha uma cor e um tamanho disponíveis. |
+| **7** | Adicionar ao carrinho | Escolha um produto de sua preferência e adicione-o ao carrinho de compras. |
+| **8** | Localizar o carrinho | Encontre os produtos que estão no seu carrinho de compras e verifique o preço total. |
 ### Instrumentos utilizados
-- google meet;
-- maze;
-- site AliExpress
+- Google meet;
+- Maze;
+- Website AliExpress
 
 Com o planejamento definido, a equipe estabeleceu as etapas necessárias para conduzir o teste e observar como os participantes interagiriam com as funcionalidades do site.
 
@@ -196,7 +191,6 @@ Para oferecer uma visão geral do desempenho dos usuários, foi elaborado um res
 
 <div align="center"><em>Tabela 8 - Resultados do participante 8</em></div>
 
----
 
 A análise individual permitiu identificar diferenças entre os participantes e destacar as tarefas que apresentaram maior dificuldade durante a execução.
 
@@ -215,8 +209,6 @@ Para oferecer uma visão geral do desempenho dos usuários, foi elaborado um res
 | P07 | 6 | 2 | 0 | 212 | 6 |
 | P08 | 7 | 1 | 0 | 107 | 2 |
 <div align="center"><em>Tabela 9 - Resumo por participante</em></div>
-
----
 
 Essa consolidação facilita a comparação entre os participantes e contribui para identificar aspectos recorrentes que merecem atenção na avaliação da usabilidade.
 
@@ -238,13 +230,12 @@ Nesta seção, os resultados foram agrupados por tarefa para verificar quais ati
 
 ---
 
+
 A comparação entre as tarefas ajuda a destacar possíveis problemas de usabilidade, especialmente nas atividades que exigiram mais esforço ou não foram concluídas com sucesso.
 
 ### Respostas abertas e fatores de usabilidade
 
 Além dos dados quantitativos, foram analisadas as respostas abertas do questionário pós-teste para compreender a percepção dos participantes sobre a experiência de navegação, as dificuldades encontradas e as melhorias sugeridas.
-
----
 
 **Pergunta 1:** Como você descreveu sua experiência geral ao realizar as tarefas no site do AliExpress?
 
@@ -321,14 +312,19 @@ Além dos dados quantitativos, foram analisadas as respostas abertas do question
 
 <p align="center"><em>Tabela 15 - Respostas abertas</em></p>
 
----
+
 
 As respostas apontaram aspectos positivos, como a facilidade de busca e a utilidade dos filtros, mas também evidenciaram oportunidades de melhoria na organização visual, na apresentação das informações e na compreensão de algumas funcionalidades.
 
-### Considerações sobre o Teste de Usabilidade
 
+### Considerações sobre o Teste de Usabilidade
 ---
 
+
 <p align="justify">
-O teste de usabilidade realizado no site AliExpress permitiu identificar facilidades e dificuldades durante a execução das tarefas. De modo geral, os participantes conseguiram realizar ações como pesquisar produtos, consultar avaliações e selecionar variações. Entretanto, foram observadas dificuldades no uso dos filtros de busca e na localização de informações, além de relatos sobre o excesso de anúncios e elementos na interface. As respostas ao questionário pós-teste reforçaram a necessidade de melhorar a organização visual, a clareza das descrições e a acessibilidade de algumas funcionalidades. Conclui-se que, apesar de o site oferecer recursos úteis para as compras on-line, existem oportunidades de melhoria para tornar a navegação mais intuitiva, organizada e eficiente.
+O teste de usabilidade realizado no site AliExpress permitiu identificar facilidades e dificuldades durante a execução das tarefas. De modo geral, os participantes conseguiram realizar ações como pesquisar produtos, consultar avaliações e selecionar variações. 
+  
+Entretanto, foram observadas dificuldades no uso dos filtros de busca e na localização de informações, além de relatos sobre o excesso de anúncios e elementos na interface. As respostas ao questionário pós-teste reforçaram a necessidade de melhorar a organização visual, a clareza das descrições e a acessibilidade de algumas funcionalidades. 
+
+Conclui-se que, apesar de o site oferecer recursos úteis para as compras on-line, existem oportunidades de melhoria para tornar a navegação mais intuitiva, organizada e eficiente.
 </p>
