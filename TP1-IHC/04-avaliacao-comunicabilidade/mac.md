@@ -1,7 +1,7 @@
 # Avaliação de Comunicabilidade
 ## Método utilizado
 <p style="text-align: justify;">
-  O Método de Avaliação de Comunicabilidade (MAC) é uma técnica da área de Interação Humano-Computador, fundamentada na Engenharia Semiótica, que serve para avaliar a qualidade da interface de um sistema a partir do ponto de vista da comunicação. Na prática, o MAC busca entender se a ideia do designer sobre como o sistema funciona foi transmitida de forma clara para o usuário através da tela. Durante os testes de uso, o método foca no mapeamento das chamadas **rupturas de comunicabilidade**, que são os momentos exatos em que essa conversa falha. 
+  O Método de Avaliação de Comunicabilidade (MAC) é uma técnica da área de Interação Humano-Computador, fundamentada na Engenharia Semiótica, que serve para avaliar a qualidade da interface de um sistema a partir do ponto de vista da comunicação. Na prática, o MAC busca entender se a ideia do designer sobre como o sistema funciona foi transmitida de forma clara para o usuário através da tela. Durante os testes de uso, o método foca no mapeamento das chamadas rupturas de comunicabilidade, que são os momentos exatos em que essa conversa falha. 
 </p>
 
 <p style="text-align: justify;"> 
@@ -14,55 +14,18 @@ E abaixo temos as 10 tarefas que foram propostas aos participantes para testar a
 
 ---
 
-### 1° Tarefa
- Utilize a barra de pesquisa para procurar por *"fone de ouvido sem fio bluetooth"*. Em seguida, filtre os resultados para exibir apenas produtos com **frete grátis** e ordenados pelas **melhores avaliações**.
- 
----
-
-### 2° Tarefa
- Ao acessar a página inicial através do link fornecido, identifique qual é a **principal promoção ou campanha de destaque** exibida na tela inicial e diga onde ela está localizada.
- 
----
-
-### 3° Tarefa
- Sem usar a barra de pesquisa textual, encontre a seção correspondente a *"Moda Masculina"* ou *"Eletrônicos"* utilizando apenas o menu de categorias da página inicial.
- 
----
-
-### 4° Tarefa
- Localize um produto na seção *"Ofertas Relâmpago"* ou *"SuperOfertas"* e identifique qual é o **preço original**, o **preço promocional** e se há uma **contagem regressiva** para o fim da oferta.
- 
----
-
-### 5° Tarefa
- Acesse a página de qualquer produto que possua variações (ex: roupas com tamanhos/cores ou eletrônicos com voltagens/modelos diferentes) e selecione uma combinação específica (ex: Cor *Preta*, Tamanho *G*).
- 
----
-
-### 6° Tarefa
- Na página de um produto selecionado, verifique o **valor do frete para o Brasil**, a **estimativa de data de entrega** e se há indicação de impostos/taxas de importação (como o programa Remessa Conforme).
- 
----
-
-### 7° Tarefa
- Encontre a pontuação geral da loja/vendedor do produto e navegue até as **avaliações com fotos** enviadas por compradores do Brasil.
- 
----
-
-### 8° Tarefa
-Adicione dois produtos de vendedores ou categorias diferentes ao carrinho. Em seguida, acesse o carrinho e **remova um dos produtos**, mantendo apenas o outro.
-
----
-
-### 9° Tarefa
- No carrinho de compras ou no resumo do pedido, tente identificar o campo onde um **cupom de desconto** ou **código promocional** deve ser digitado.
- 
----
-
-### 10° Tarefa
- Identifique onde na interface (seja no rodapé, topo ou checkout) são exibidas as **formas de pagamento aceitas no Brasil** (ex: PIX, Cartão de Crédito, Boleto) e como verificar se a moeda está configurada para **BRL (R$)**.
- 
----
+| # | Tarefa | Descrição da Ação |
+| --- | --- | --- |
+| **1** | Pesquisa e Filtros | Procurar por *"fone de ouvido sem fio bluetooth"*, filtrar por **frete grátis** e ordenar pelas **melhores avaliações**. |
+| **2** | Promoção de Destaque | Identificar a **principal promoção ou campanha** na página inicial e sua localização. |
+| **3** | Navegação por Categoria | Encontrar a seção *"Moda Masculina"* ou *"Eletrônicos"* usando apenas o **menu de categorias**. |
+| **4** | Ofertas Relâmpago | Localizar um produto em *"Ofertas Relâmpago"* ou *"SuperOfertas"* e verificar **preço original**, **preço promocional** e **contagem regressiva**. |
+| **5** | Seleção de Variações | Acessar um produto com variações (ex: tamanho/cor) e **selecionar uma combinação específica**. |
+| **6** | Frete, Prazos e Taxas | Verificar o **valor do frete para o Brasil**, a **estimativa de entrega** e as **taxas de importação** (Remessa Conforme). |
+| **7** | Avaliações e Loja | Encontrar a pontuação da loja/vendedor e navegar até as **avaliações com fotos** de compradores brasileiros. |
+| **8** | Gerenciamento do Carrinho | Adicionar dois produtos de categorias/vendedores diferentes ao carrinho, acessá-lo e **remover um deles**. |
+| **9** | Cupom de Desconto | Identificar o campo para digitação de **cupom de desconto** ou código promocional. |
+| **10** | Pagamento e Moeda | Identificar as **formas de pagamento aceitas no Brasil** (PIX, Cartão, Boleto) e a configuração da moeda para **BRL (R$)**. |
 
 ## Registro das sessões
 As sessões de testes foram registradas e estão disponíveis nos videos abaixo: 
@@ -118,6 +81,20 @@ ao site da aliexpress, onde de forma falada ou não, foram detectados essas difi
 <div align="center">Tabela 1 - Tabela de etiquetagem</div>
 
 ## Principais Resultados da Avaliação
-A etiqueta "pra mim está bom" teve a maior frequência (ocorrendo 7 vezes), indicando uma tendência dos usuários de forma equivocada ter concluído etapas ou compreendido informações (como a ausência de taxas de importação ou o caminho correto). Em contrapartida, etiquetas ligadas à desistência e à frustração — como "desisto" (5 vezes) e "ué, o que houve?" (3 vezes) — evidenciaram barreiras severas na interação. A Tarefa 10 (relacionada a formas de pagamento e configuração de moeda) e a Tarefa 4 (encontrar um produto específico) sobressaíram como as que apresentaram o maior número de rupturas e falhas de fluxo para os participantes.
+| Etiqueta | Ocorrências (P1) | Ocorrências (P2) | Total | Tarefas mais afetadas |
+| :---: | :---: | :---: | :---: | :--- |
+| **Pra mim está bom** | 5 | 1 | 6 | T4, T6, T7, T8, T10 |
+| **Desisto** | 3 | 1 | 4 | T4, T6, T7, T9 |
+| **Ué, o que houve?** | 1 | 2 | 3 | T1, T7 |
+| **Cadê?** | 1 | 0 | 1 | T10 |
+| **E agora?** | 1 | 0 | 1 | T4 |
+| **Vai de outro jeito** | 1 | 0 | 1 | T4 |
+| **Epa** | 1 | 0 | 1 | T10 |
+| **O que é isto** | 1 | 0 | 1 | T10 |
+| **Socorro** | 1 | 0 | 1 | T10 |
+| **Assim não dá** | 0 | 1 | 1 | T9 |
+<div align="center">Tabela 2 - Tabela de resultados da avaliação</div>
+
+---
 
 Esses resultados apontam falhas na comunicação entre o sistema e os usuários, demonstrando que a interface muitas vezes falha em fornecer feedbacks claros ou em orientar adequadamente o usuário. A alta frequência de falsas conclusões ("pra mim está bom") combinada com desistências sugere que há falta de clareza nas informções (como regras de tributação, estados de erro e localização de recursos), gerando uma falsa sensação de sucesso ou desorientação que compromete a experiência do usuário.
