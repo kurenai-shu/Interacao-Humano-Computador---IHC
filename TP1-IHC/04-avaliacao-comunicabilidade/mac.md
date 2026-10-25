@@ -65,14 +65,28 @@ Adicione dois produtos de vendedores ou categorias diferentes ao carrinho. Em se
 ---
 
 ## Registro das sessões
-[Apresentar o link dos vídeos]
+As sessões de testes foram registradas e estão disponíveis nos videos abaixo: 
+
 - [Vídeo do participante U1](https://youtu.be/EwzFZb-O6h0?si=dZZPMDpvJFt8ujzr)
 - [Vídeo do participante U2](https://youtu.be/1diFpv90oLQ?si=Yg4kuXeKsPX_GVX7)
 ## Etiquetagem das rupturas
 Durante a aplicação do método, os avaliadores analisam gravações de usuários realizando tarefas para identificar rupturas de comunicação — momentos em que o usuário demonstra confusão, frustração ou não compreende a mensagem passada pela interface. Para categorizar essas falhas, o MAC utiliza um conjunto de 13 etiquetas de comunicabilidade que "colocam palavras na boca do usuário". Quando organizadas em tabelas de tabulação e frequência, essas etiquetas mapeiam exatamente onde a comunicação falhou. Abaixo segue as 13 etiquetas do MAC
-<img width="475" height="572" alt="image" src="https://github.com/user-attachments/assets/226ad05f-9601-4114-9a14-cd441153a076" />
-<img width="405" height="370" alt="image" src="https://github.com/user-attachments/assets/32b6a281-56fa-4e81-943c-bf9c3e90a07c" />
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img width="826" height="1128" alt="{9518457C-52DA-447D-A96E-8078A7B1B066}" src="https://github.com/user-attachments/assets/c6f19a10-62bd-4a76-89fa-4331e17d0084" />
+      </td>
+      <td align="center">
+        <img width="1258" height="1114" alt="{52DC6911-E17D-4E3E-8190-839F98651D19}" src="https://github.com/user-attachments/assets/3fc0a4c2-88b1-4171-a061-98cd6d65f93d" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>Figura 1</b> - Tabela de etiquetagem</td>
+      <td align="center"><b>Figura 2</b> - Tabela de etiquetagem</td>
+    </tr>
+  </table>
+</div>
 
 
 ## Consolidação das etiquetas
@@ -101,8 +115,9 @@ ao site da aliexpress, onde de forma falada ou não, foram detectados essas difi
 | U2 | T7 | 15:03 | "pode passar pra próxima" | desisto | usuário não consegue concluir a tarefa |
 | U2 | T9 | 20:17 | cliques do usuário | assim não dá | usuário desiste do caminho anterior que escolheu | 
 | U2 | T10 | 23:25 | "como o produto é brasileiro..." | pra mim está bom | o usuário acredita equivocadamente ter concluído a tarefa | 
+<div align="center">Tabela 1 - Tabela de etiquetagem</div>
 
+## Principais Resultados da Avaliação
+A etiqueta "pra mim está bom" teve a maior frequência (ocorrendo 7 vezes), indicando uma tendência dos usuários de forma equivocada ter concluído etapas ou compreendido informações (como a ausência de taxas de importação ou o caminho correto). Em contrapartida, etiquetas ligadas à desistência e à frustração — como "desisto" (5 vezes) e "ué, o que houve?" (3 vezes) — evidenciaram barreiras severas na interação. A Tarefa 10 (relacionada a formas de pagamento e configuração de moeda) e a Tarefa 4 (encontrar um produto específico) sobressaíram como as que apresentaram o maior número de rupturas e falhas de fluxo para os participantes.
 
-Apresentar os principais resultados da avaliação, destacando quais etiquetas apareceram com maior
-frequência, quais tarefas apresentaram mais rupturas e o que esses resultados indicam sobre a comunicação
-entre o sistema e os usuários.
+Esses resultados apontam falhas na comunicação entre o sistema e os usuários, demonstrando que a interface muitas vezes falha em fornecer feedbacks claros ou em orientar adequadamente o usuário. A alta frequência de falsas conclusões ("pra mim está bom") combinada com desistências sugere que há falta de clareza nas informções (como regras de tributação, estados de erro e localização de recursos), gerando uma falsa sensação de sucesso ou desorientação que compromete a experiência do usuário.
