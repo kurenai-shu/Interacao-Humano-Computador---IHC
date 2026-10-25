@@ -75,8 +75,10 @@ Explicar o que a tabela apresenta e discutir os resultados observados.
 Explicar o que a tabela apresenta e discutir os resultados observados.
 | Part. | Tarefa | Timestamp | Trecho observado | Etiqueta MAC | Interpretação |
 | :---: | :---: | :---: | :--- | :---: | :--- |
-| U1 | T4 | 02:13 | "Hã... não encontro salvar" | Cadê? | Botão salvar fora do viewport |
-
+| U1 | T1 | 03:25 | "ele saiu" | Ué, o que houve? | produtos  diferentes do qual foi pesquisado |
+| U1 | T4 | 6:54 | "acho que não aparece aqui" | pra mim está bom | usuário não encontrou relógio e acreditou ter condluído a tarefa|
+| U1 | T4 | 6:56 | "e agora" | o participante não sabe encontrar o relógio|
+| U1 | T4 | 
 
 Apresentar os principais resultados da avaliação, destacando quais etiquetas apareceram com maior
 frequência, quais tarefas apresentaram mais rupturas e o que esses resultados indicam sobre a comunicação
