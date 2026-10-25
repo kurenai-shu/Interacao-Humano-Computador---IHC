@@ -1,5 +1,8 @@
 # Avaliação de Acessibilidade
 ## Método utilizado
+<p style="text-align: justify;">
+  A Inspeção de Acessibilidade é uma técnica da área de Interação Humano-Computador e Engenharia de Acessibilidade que serve para avaliar a qualidade e a conformidade de uma interface digital em relação às necessidades de pessoas com deficiência. Na prática, o processo busca entender se o conteúdo, as estruturas semânticas e as funcionalidades do sistema respeitam as diretrizes internacionais das WCAG 2.2, permitindo que usuários que dependem de tecnologias assistivas (como leitores de tela) ou métodos alternativos de navegação (como o uso exclusivo do teclado) consigam interagir com a aplicação sem barreiras.
+</p>
 [Texto]
 ## Escopo da avaliação
 Foram selecionadas as seguintes telas para inspeção:
