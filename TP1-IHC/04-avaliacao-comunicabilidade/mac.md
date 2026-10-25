@@ -89,6 +89,13 @@ Explicar o que a tabela apresenta e discutir os resultados observados.
 | U1 | T10 | 19:55 | "não estou encontrando" | cadê? | o usuário ão encontra o que procura | 
 | U1 | T10 | 20:06 | "será que não é isso? | o que é isto | o usuário não consegue interpretar os signos apresentados |
 | U1 | T10 | 20:55 | "tá, vai" | socorro | pede ajuda online | 
+| U1 | T10 | 23:50 | "acho que concluí sim" | pra mim está bom | o usuário acredita equivocadamente ter concluído a tarefa | 
+| U2 | T7 | 12:25 | cliques do usuário | ué, o que houve? | o sistema dá erro e o usuário não entende o porque |
+| U2 | T7 | 14:07 | cliques do usuário | ué, o que houve? | sistema da o mesmo erro novamente |
+| U2 | T7 | 15:03 | "pode passar pra próxima" | desisto | usuário não consegue concluir a tarefa |
+| U2 | T9 | 20:17 | cliques do usuário | assim não dá | usuário desiste do caminho anterior que escolheu | 
+| U2 | T10 | 23:25 | "como o produto é brasileiro..." | pra mim está bom | o usuário acredita equivocadamente ter concluído a tarefa | 
+
 
 Apresentar os principais resultados da avaliação, destacando quais etiquetas apareceram com maior
 frequência, quais tarefas apresentaram mais rupturas e o que esses resultados indicam sobre a comunicação
