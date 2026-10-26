@@ -111,3 +111,37 @@ organizadas por participante Essa seção servirá como registro dos dados bruto
 <img width="637" height="418" alt="WhatsApp Image 2026-10-26 at 01 09 34" src="https://github.com/user-attachments/assets/46421b9f-462c-45d7-98bb-d52f8dd76a72" />
 
 ## 4. Considerações sobre a experiência do usuário.
+
+## Relatório de Avaliação de Usabilidade e UX
+
+### Resumo da Avaliação
+
+A experiência geral do usuário (UX) foi muito ruim: o site é confuso, complicado demais e difícil de usar no dia a dia.
+
+> [!WARNING]
+> **Gravidade crítica:** O caminho de navegação fica seriamente prejudicado por truques de design que pressionam o usuário a comprar (*dark patterns*), o que causa muita irritação e faz as pessoas desconfiarem da plataforma.
+
+---
+
+### Principais Problemas Encontrados
+
+#### 1. Truques de Design que Enganam o Usuário (Dark Patterns)
+
+- **Promessas falsas de venda:** Anúncios e ofertas enganosas que levam o usuário a errar durante a navegação.
+- **Venda casada / empurrar produtos extras:** O usuário é constantemente induzido, ou até obrigado, a levar vários itens que não pediu na hora de finalizar a compra.
+
+#### 2. Esforço Mental Alto
+
+- **Excesso de informação:** Muitas imagens, banners e propagandas lotam a tela e dificultam na hora de decidir.
+- **Navegação complicada:** O site é pouco prático e não deixa claro o passo a passo da compra.
+
+---
+
+### Impacto na Experiência do Usuário
+
+```text
+[ Navegação / Busca ] ──> [ Tela Poluída ] ──> [ Pressão para Comprar ] ──> [ Irritação e Desconfiança ]
+```
+
+- **Quebra de regras de usabilidade:** O usuário perde a liberdade e o controle sobre o que faz, e o site não ajuda a evitar erros.
+- **Experiência negativa:** No fim da jornada (ou ao tentar chegar até o fim), o usuário se sente inseguro e insatisfeito com a plataforma.
