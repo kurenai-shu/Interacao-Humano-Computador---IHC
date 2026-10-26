@@ -50,14 +50,12 @@ Nota-se ausência de recursos essenciais para conteúdos multimídia como audiod
 | Compreensível | 3.2 Previsível | 3.2.5 Mudança mediante solicitação | AAA | Página inicial | ∞ |
 <div align="center"> Tabela 2 - Tabela de critérios WCAG violados</div>
 
+Com os resultados analisados no princípio do **Perceptível**, foram identificadas falhas relacionadas a conteúdos multimídia e à legibilidade visual. Na página de produto, a ausência de audiodescrição (critério 1.2.5) e de interpretação em linguagem de sinais em vídeos pré-gravados (critério 1.2.6) impede o acesso pleno por parte de pessoas com deficiência sensorial (visual e auditiva). Ademais, problemas de contraste mínimo (critério 1.4.3) foram detectados tanto na tela de produtos importados quanto na página inicial, dificultando a distinção de elementos textuais e informativos essenciais.
 
-
-No princípio do **Perceptível**, foram identificadas falhas críticas relacionadas a conteúdos multimídia e à legibilidade visual. Na página de produto, a ausência de audiodescrição (critério 1.2.5) e de interpretação em linguagem de sinais em vídeos pré-gravados (critério 1.2.6) impede o acesso pleno por parte de pessoas com deficiência sensorial (visual e auditiva). Ademais, problemas de contraste mínimo (critério 1.4.3) foram detectados tanto na tela de produtos importados quanto na página inicial, dificultando a distinção de elementos textuais e informativos essenciais.
-
-No princípio do **Compreensível**, constatou-se uma infração ao critério de previsibilidade com a ocorrência de mudanças de contexto não solicitadas (critério 3.2.5) na página inicial, o que pode causar desorientação e barreiras severas de navegação, sobretudo para usuários que dependem de previsibilidade estrutural e tecnológica.
+No princípio do **Compreensível**, se nota uma infração ao critério de previsibilidade com a ocorrência de mudanças de contexto não solicitadas (critério 3.2.5) na página inicial, o que pode causar desorientação e problemas de navegação.
 
 ## Considerações sobre os resultados
 
-A análise dos resultados obtidos na inspeção de acessibilidade indica que a plataforma apresenta barreiras críticas de acesso para diversos perfis de usuários, violando critérios essenciais das diretrizes WCAG 2.2. 
+A análise dos resultados obtidos na inspeção de acessibilidade indica que a plataforma apresenta algumas barreirasde acesso para certos perfis de usuários, violando critérios das diretrizes WCAG 2.2. 
 
-A ausência de recursos de tecnologia assistiva para conteúdos em vídeo — como audiodescrição e interpretação em LIBRAS — isola usuários com deficiências sensoriais de informações chave na decisão de compra. Paralelamente, os problemas recorrentes de contraste afetam a legibilidade de dados fundamentais (como taxas e ofertas), enquanto os redirecionamentos inesperados por links camuflados prejudicam a previsibilidade do sistema, criando um fluxo de navegação truncado e pouco inclusivo.
+A ausência de certos recursos de acessibilidade para conteúdos em vídeo — como audiodescrição e interpretação em LIBRAS — isola usuários com deficiências sensoriais de informações chave na decisão de compra. Além disso, os problemas recorrentes de contraste afetam a legibilidade de dados fundamentais (como taxas e ofertas), enquanto os redirecionamentos inesperados por links camuflados prejudicam a previsibilidade do sistema, criando um fluxo de navegação truncado e pouco inclusivo.
