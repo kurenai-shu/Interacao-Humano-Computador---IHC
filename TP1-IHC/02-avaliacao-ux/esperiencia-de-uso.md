@@ -1,6 +1,7 @@
 # Avaliação de Experiência do Usuário
 ## 1. Aplicação do UEQ
 <img width="617" height="340" alt="atratividade1" src="https://github.com/user-attachments/assets/1610d34c-e8eb-4fc4-a789-470045d6847a" />
+
 <img width="609" height="349" alt="atratividade" src="https://github.com/user-attachments/assets/e103b64f-8736-414b-b8f4-56bf388488d1" />
 
 ## 2. Resultados gerais
@@ -96,9 +97,17 @@
 Apresente as respostas abertas coletadas no questionário, preferencialmente em sua forma original,
 organizadas por participante Essa seção servirá como registro dos dados brutos.
 ### 3.2 Processo de codificação no ATLAS.ti
+<img width="724" height="205" alt="WhatsApp Image 2026-10-26 at 01 38 27" src="https://github.com/user-attachments/assets/324bd31c-6c73-4cf1-ada3-2d9f47d99f7c" />
+<img width="602" height="591" alt="WhatsApp Image 2026-10-26 at 01 38 27 (1)" src="https://github.com/user-attachments/assets/3fa7215a-4b81-4de2-a659-76a4245aa0ce" />
 
 ### 3.3 Códigos identificados
-Apresente prints/imagens dos principais códigos criados durante a análise
+<img width="347" height="338" alt="ksnip_20261026-014000" src="https://github.com/user-attachments/assets/7ef30bac-3d18-476c-a878-c170f42e4e33" />
+
 ### 3.4 Redes construídas no ATLAS.ti
-Apresente as redes criadas para representar as dimensões do UEQ e os códigos associados a cada uma delas
+<img width="1132" height="497" alt="WhatsApp Image 2026-10-26 at 01 09 34 (1)" src="https://github.com/user-attachments/assets/01819ae9-f96c-4643-9728-ad0493b381b3" />
+<img width="1122" height="468" alt="WhatsApp Image 2026-10-26 at 01 09 34 (2)" src="https://github.com/user-attachments/assets/1017ccc8-506e-47f4-9465-803dde0b8f34" />
+<img width="1045" height="463" alt="WhatsApp Image 2026-10-26 at 01 09 34 (3)" src="https://github.com/user-attachments/assets/2eed43a9-2bd2-45c1-a60f-8f5765f81a75" />
+<img width="732" height="443" alt="WhatsApp Image 2026-10-26 at 01 09 34 (4)" src="https://github.com/user-attachments/assets/54c9acdc-ab95-4303-9765-42b4670dc757" />
+<img width="637" height="418" alt="WhatsApp Image 2026-10-26 at 01 09 34" src="https://github.com/user-attachments/assets/46421b9f-462c-45d7-98bb-d52f8dd76a72" />
+
 ## 4. Considerações sobre a experiência do usuário.
