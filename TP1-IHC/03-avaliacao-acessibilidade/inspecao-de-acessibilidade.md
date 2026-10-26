@@ -11,7 +11,6 @@
 Foram selecionadas as seguintes telas para inspeção:
 Com base no status de acesso ao site e conhecendo a estrutura típica de grandes plataformas de comércio eletrônico (como o **AliExpress**), podemos mapear as principais **telas/páginas** e **funcionalidades** que devem ser priorizadas em uma inspeção ou auditoria de acessibilidade digital com base no modelo **WCAG 2.2** (Web Content Accessibility Guidelines).
 
----
 
 ### 1. Telas que foram avaliadas
 
@@ -19,10 +18,17 @@ Com base no status de acesso ao site e conhecendo a estrutura típica de grandes
 2. **Página de Resultados de Busca / Listagem de Produtos (PLP - Product Listing Page)**
 3. **Página de Detalhes do Produto (PDP - Product Detail Page)**
 4. **Fluxo de Carrinho de Compras e Checkout (Cart & Checkout)**
----
 ## Processo utilizado
-[Explicar o processo utilizado: Detecção, coleção e discriminação]
+
+O processo utilizado baseou-se na detecção, coleção e discriminação de não-conformidades nas interfaces selecionadas.
+
+* **Detecção:** Realizada por meio de inspeção manual da interface interagindo com leitor de tela (NVDA/VoiceOver) e navegação exclusiva por teclado, rastreando os 4 princípios fundamentais (Perceptível, Operável, Compreensível e Robusto).
+* **Coleção:** Agrupamento das falhas sistêmicas que se repetem em componentes compartilhados, como modais promocionais e carrosséis de componentes de entrada (inputs).
+* **Discriminação:** Classificação dos problemas com base no impacto real na experiência do usuário durante o fluxo de compra, priorizando gargalos que impedem a finalização de tarefas primárias (ex: adicionar ao carrinho e pagar).
+
 ## Resultados da inspeção
+
+### Síntese dos problemas encontrados
 | Problema | Critério WCAG | Tela/Página | Frequência |
 | --- | --- | --- | --- |
 | Vídeo sem audiodescrição | 1.2.5 - Audiodescrição (pré-gravada) | Página de produto | ∞ |
@@ -30,12 +36,28 @@ Com base no status de acesso ao site e conhecendo a estrutura típica de grandes
 | Falta de clareza das informações relacionadas as taxas de importação de produtos estrangeiros | 1.4.3 - Contraste (mínimo) | Tela de produtos importados | ∞ |
 | Falta de contraste no texto "combo de ofertas" abaixo do card dos produtos| 1.4.3 - Contraste (mínimo) | Tela principal | ∞ |
 | Links que se disfarçam de itens e levam para outra tela | 3.2.5 Mudança mediante a solicitação | Tela inicial | ∞ |
+<div align="center">Tabela 1 - Tabela de síntese de problemas encontrados</div>
 
-### Síntese dos problemas encontrados
-Explicar o que a tabela apresenta e discutir os resultados observados.
+Nota-se ausência de recursos essenciais para conteúdos multimídia como audiodescrição e linguagem de sinais na página de produto (critérios 1.2.5 e 1.2.6), problemas graves de contraste mínimo que afetam a legibilidade de textos secundários e informações de importação (critério 1.4.3), além de links enganosos que redirecionam o usuário de forma inesperada na tela inicial (critério 3.2.5).
 
 ### Critérios WCAG violados
-Explicar o que a tabela apresenta e discutir os resultados observados.
+| Princípio | Diretriz | Critério violado | Nível | Tela/Página | Frequência |
+| --- | --- | --- | --- | --- | --- |
+| Perceptível | 1.2 Mídias com base em tempo | 1.2.5 Audiodescrição (pré-gravada) | AA | Página de produto | ∞ |
+| Perceptível | 1.2 Mídias com base em tempo | 1.2.6 Linguagem de sinal (pré-gravada) | AAA | Página de produto | ∞ |
+| Perceptível | 1.4 Discernível | 1.4.3 Contraste mínimo | AA | Tela de produtos importados | ∞ |
+| Perceptível | 1.4 Discernível | 1.4.3 Contraste mínimo | AA | Página inicial | ∞ |
+| Compreensível | 3.2 Previsível | 3.2.5 Mudança mediante solicitação | AAA | Página inicial | ∞ |
+<div align="center"> Tabela 2 - Tabela de critérios WCAG violados</div>
+
+
+
+No princípio do **Perceptível**, foram identificadas falhas críticas relacionadas a conteúdos multimídia e à legibilidade visual. Na página de produto, a ausência de audiodescrição (critério 1.2.5) e de interpretação em linguagem de sinais em vídeos pré-gravados (critério 1.2.6) impede o acesso pleno por parte de pessoas com deficiência sensorial (visual e auditiva). Ademais, problemas de contraste mínimo (critério 1.4.3) foram detectados tanto na tela de produtos importados quanto na página inicial, dificultando a distinção de elementos textuais e informativos essenciais.
+
+No princípio do **Compreensível**, constatou-se uma infração ao critério de previsibilidade com a ocorrência de mudanças de contexto não solicitadas (critério 3.2.5) na página inicial, o que pode causar desorientação e barreiras severas de navegação, sobretudo para usuários que dependem de previsibilidade estrutural e tecnológica.
 
 ## Considerações sobre os resultados
-Apresentar uma breve discussão sobre os principais resultados da avaliação
+
+A análise dos resultados obtidos na inspeção de acessibilidade indica que a plataforma apresenta barreiras críticas de acesso para diversos perfis de usuários, violando critérios essenciais das diretrizes WCAG 2.2. 
+
+A ausência de recursos de tecnologia assistiva para conteúdos em vídeo — como audiodescrição e interpretação em LIBRAS — isola usuários com deficiências sensoriais de informações chave na decisão de compra. Paralelamente, os problemas recorrentes de contraste afetam a legibilidade de dados fundamentais (como taxas e ofertas), enquanto os redirecionamentos inesperados por links camuflados prejudicam a previsibilidade do sistema, criando um fluxo de navegação truncado e pouco inclusivo.
