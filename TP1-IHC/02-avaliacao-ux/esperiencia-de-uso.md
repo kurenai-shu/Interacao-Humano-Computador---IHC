@@ -94,8 +94,21 @@
 
 ## 3. Análise qualitativa
 ### 3.1 Respostas abertas analisadas
-Apresente as respostas abertas coletadas no questionário, preferencialmente em sua forma original,
-organizadas por participante Essa seção servirá como registro dos dados brutos.
+## P1:
+<img height="500" alt="WhatsApp Image 2026-10-22 at 23 09 55" src="https://github.com/user-attachments/assets/09ba5662-dcab-4f9d-a7cb-57265fabf8cd" />
+
+## P2: 
+<img height="500" alt="WhatsApp Image 2026-10-22 at 23 07 50" src="https://github.com/user-attachments/assets/fc334d05-7cac-452f-919c-cc29d2dd284a" />
+
+## P3: 
+<img height="500" alt="WhatsApp Image 2026-10-22 at 23 08 05" src="https://github.com/user-attachments/assets/93a3b635-e490-433d-b6b4-245b02cc6e16" />
+
+## P4: 
+<img height="500" alt="WhatsApp Image 2026-10-22 at 23 08 24" src="https://github.com/user-attachments/assets/ca42ddd9-8235-44e0-bcce-6c8c317ddd28" />
+
+## P5: 
+<img height="500" alt="WhatsApp Image 2026-10-22 at 23 08 40" src="https://github.com/user-attachments/assets/6e4d4263-dbbd-41be-8f45-4fd6125f881c" />
+
 ### 3.2 Processo de codificação no ATLAS.ti
 <img width="724" height="205" alt="WhatsApp Image 2026-10-26 at 01 38 27" src="https://github.com/user-attachments/assets/324bd31c-6c73-4cf1-ada3-2d9f47d99f7c" />
 <img width="602" height="591" alt="WhatsApp Image 2026-10-26 at 01 38 27 (1)" src="https://github.com/user-attachments/assets/3fa7215a-4b81-4de2-a659-76a4245aa0ce" />
