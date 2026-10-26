@@ -1,10 +1,23 @@
 # Avaliação de Experiência do Usuário
-## 1. Aplicação do UEQ
-<img width="617" height="340" alt="atratividade1" src="https://github.com/user-attachments/assets/1610d34c-e8eb-4fc4-a789-470045d6847a" />
 
-<img width="609" height="349" alt="atratividade" src="https://github.com/user-attachments/assets/e103b64f-8736-414b-b8f4-56bf388488d1" />
+## 1. Aplicação do UEQ
+
+<div align="center">
+  <img width="617" height="340" alt="atratividade1" src="https://github.com/user-attachments/assets/1610d34c-e8eb-4fc4-a789-470045d6847a" /><br>
+  <sub><b>Figura 1 - Média das escalas da avaliação do UEQ</b></sub>
+</div>
+
+<br>
+
+<div align="center">
+  <img width="609" height="349" alt="atratividade" src="https://github.com/user-attachments/assets/e103b64f-8736-414b-b8f4-56bf388488d1" /><br>
+  <sub><b>Figura 2 - Comparação dos resultados com o benchmark do UEQ</b></sub>
+</div>
+
+<br>
 
 ## 2. Resultados gerais
+
 ### Interpretação por Escala
 
 1. **Atratividade: +0,800 (Positiva / Favorável)** 
@@ -42,88 +55,155 @@
    - Sentem que o sistema repete padrões já muito conhecidos, sem trazer recursos modernos ou vanguardistas.
    - Não enxergam a ferramenta como uma solução original ou inovadora em relação ao que já existe no mercado.
    - Percebem a tecnologia empregada como conservadora e pouco ousada no aspecto visual/estrutural.
-## 3. Análise Quantitativa
-### Gráfico — [Distribuição de código entre documentos]
-<img width="820" height="442" alt="WhatsApp Image 2026-10-26 at 01 09 35" src="https://github.com/user-attachments/assets/536358d3-b16c-402f-adb8-34c12b4f7e9e" />
-
 
 ---
 
-## 1. O que o gráfico apresenta
+## 3. Análise Quantitativa
+
+<div align="center">
+  <img width="820" height="442" alt="Distribuição de código entre documentos" src="https://github.com/user-attachments/assets/536358d3-b16c-402f-adb8-34c12b4f7e9e" /><br>
+  <sub><b>Figura 3 - Distribuição da frequência dos códigos qualitativos pelos documentos</b></sub>
+</div>
+
+<br>
+
+---
+
+### 1. O que o gráfico apresenta
 
 * O gráfico exibe a **"Distribuição de código entre documentos"**, quantificando a frequência com que diferentes categorias de códigos qualitativos apareceram nas avaliações de usabilidade e nos feedbacks recolhidos junto aos participantes.
-
-
 * Ele mapeia tanto os problemas e barreiras enfrentados pelos utilizadores quanto os aspetos positivos relatados, permitindo visualizar de forma clara e estatística quais os temas mais recorrentes nos documentos analisados.
-
-
 
 ---
 
-## 2. Discussão dos resultados observados
+### 2. Discussão dos resultados observados
 
 * **Concentração Crítica (Interface Poluída):**
-* O código **"Interface poluída"** destaca-se de forma esmagadora com **10 ocorrências**, constituindo o principal gargalo e ponto crítico da avaliação.
-
-
-* Este resultado demonstra que o excesso de elementos visuais, a poluição visual ou a falta de organização no design afetam severamente a experiência geral e a perceção dos utilizadores.
-
-
-
+  - O código **"Interface poluída"** destaca-se de forma esmagadora com **10 ocorrências**, constituindo o principal gargalo e ponto crítico da avaliação.
+  - Este resultado demonstra que o excesso de elementos visuais, a poluição visual ou a falta de organização no design afetam severamente a experiência geral e a perceção dos utilizadores.
 
 * **Dificuldades de Acesso e Compreensão:**
-* A segunda categoria com maior expressão é a **"Dificuldade de acesso e compreensão"**, com **2 ocorrências**, o que evidencia barreiras operacionais e cognitivas adicionais durante a navegação.
-
-
-
+  - A segunda categoria com maior expressão é a **"Dificuldade de acesso e compreensão"**, com **2 ocorrências**, o que evidencia barreiras operacionais e cognitivas adicionais durante a navegação.
 
 * **Ocorrências Unitárias e Diversidade de Feedbacks:**
-* Todas as restantes categorias registaram exatamente **1 ocorrência** cada.
-
-
-* Este grupo diversificado inclui tanto pontos de atrito e aspetos a melhorar (tais como *Instruções para acesso ao produto*, *Melhor otimização do site*, *Melhorar a descrição dos produtos*, *Negação da compra singular* e *Produtos falsos*) como pontos positivos e validações de sucesso (tais como *Facilidade na procura de preços*, *Nenhum problema encontrado*, *Participante 3 A forma de procura*, *Participante 7 Fácil e satisfatório* e *Tarefas rápidas e práticas*).
-
-
-
+  - Todas as restantes categorias registaram exatamente **1 ocorrência** cada.
+  - Este grupo diversificado inclui tanto pontos de atrito e aspetos a melhorar (tais como *Instruções para acesso ao produto*, *Melhor otimização do site*, *Melhorar a descrição dos produtos*, *Negação da compra singular* e *Produtos falsos*) como pontos positivos e validações de sucesso (tais como *Facilidade na procura de preços*, *Nenhum problema encontrado*, *Participante 3 A forma de procura*, *Participante 7 Fácil e satisfatório* e *Tarefas rápidas e práticas*).
 
 * **Conclusão da Análise:**
-* Os dados revelam que, embora existam múltiplos comentários e feedbacks pontuais dispersos pelo estudo, a usabilidade e a experiência do utilizador são fortemente penalizadas por questões visuais.
+  - Os dados revelam que, embora existam múltiplos comentários e feedbacks pontuais dispersos pelo estudo, a usabilidade e a experiência do utilizador são fortemente penalizadas por questões visuais.
+  - Torna-se assim indispensável priorizar a reformulação e a limpeza da interface para mitigar o principal problema reportado e elevar a qualidade global do produto.
 
+---
 
-* Torna-se assim indispensável priorizar a reformulação e a limpeza da interface para mitigar o principal problema reportado e elevar a qualidade global do produto.
+## 4. Análise qualitativa
 
-## 3. Análise qualitativa
-### 3.1 Respostas abertas analisadas
-## P1:
-<img height="500" alt="WhatsApp Image 2026-10-22 at 23 09 55" src="https://github.com/user-attachments/assets/09ba5662-dcab-4f9d-a7cb-57265fabf8cd" />
+### 4.1 Respostas abertas analisadas
 
-## P2: 
-<img height="500" alt="WhatsApp Image 2026-10-22 at 23 07 50" src="https://github.com/user-attachments/assets/fc334d05-7cac-452f-919c-cc29d2dd284a" />
+#### P1:
+<div align="center">
+  <img height="500" alt="Resposta aberta Participante 1" src="https://github.com/user-attachments/assets/09ba5662-dcab-4f9d-a7cb-57265fabf8cd" /><br>
+  <sub><b>Figura 4 - Resposta aberta do Participante 1 (P1)</b></sub>
+</div>
 
-## P3: 
-<img height="500" alt="WhatsApp Image 2026-10-22 at 23 08 05" src="https://github.com/user-attachments/assets/93a3b635-e490-433d-b6b4-245b02cc6e16" />
+<br>
 
-## P4: 
-<img height="500" alt="WhatsApp Image 2026-10-22 at 23 08 24" src="https://github.com/user-attachments/assets/ca42ddd9-8235-44e0-bcce-6c8c317ddd28" />
+#### P2: 
+<div align="center">
+  <img height="500" alt="Resposta aberta Participante 2" src="https://github.com/user-attachments/assets/fc334d05-7cac-452f-919c-cc29d2dd284a" /><br>
+  <sub><b>Figura 5 - Resposta aberta do Participante 2 (P2)</b></sub>
+</div>
 
-## P5: 
-<img height="500" alt="WhatsApp Image 2026-10-22 at 23 08 40" src="https://github.com/user-attachments/assets/6e4d4263-dbbd-41be-8f45-4fd6125f881c" />
+<br>
 
-### 3.2 Processo de codificação no ATLAS.ti
-<img width="724" height="205" alt="WhatsApp Image 2026-10-26 at 01 38 27" src="https://github.com/user-attachments/assets/324bd31c-6c73-4cf1-ada3-2d9f47d99f7c" />
-<img width="602" height="591" alt="WhatsApp Image 2026-10-26 at 01 38 27 (1)" src="https://github.com/user-attachments/assets/3fa7215a-4b81-4de2-a659-76a4245aa0ce" />
+#### P3: 
+<div align="center">
+  <img height="500" alt="Resposta aberta Participante 3" src="https://github.com/user-attachments/assets/93a3b635-e490-433d-b6b4-245b02cc6e16" /><br>
+  <sub><b>Figura 6 - Resposta aberta do Participante 3 (P3)</b></sub>
+</div>
 
-### 3.3 Códigos identificados
-<img width="347" height="338" alt="ksnip_20261026-014000" src="https://github.com/user-attachments/assets/7ef30bac-3d18-476c-a878-c170f42e4e33" />
+<br>
 
-### 3.4 Redes construídas no ATLAS.ti
-<img width="1132" height="497" alt="WhatsApp Image 2026-10-26 at 01 09 34 (1)" src="https://github.com/user-attachments/assets/01819ae9-f96c-4643-9728-ad0493b381b3" />
-<img width="1122" height="468" alt="WhatsApp Image 2026-10-26 at 01 09 34 (2)" src="https://github.com/user-attachments/assets/1017ccc8-506e-47f4-9465-803dde0b8f34" />
-<img width="1045" height="463" alt="WhatsApp Image 2026-10-26 at 01 09 34 (3)" src="https://github.com/user-attachments/assets/2eed43a9-2bd2-45c1-a60f-8f5765f81a75" />
-<img width="732" height="443" alt="WhatsApp Image 2026-10-26 at 01 09 34 (4)" src="https://github.com/user-attachments/assets/54c9acdc-ab95-4303-9765-42b4670dc757" />
-<img width="637" height="418" alt="WhatsApp Image 2026-10-26 at 01 09 34" src="https://github.com/user-attachments/assets/46421b9f-462c-45d7-98bb-d52f8dd76a72" />
+#### P4: 
+<div align="center">
+  <img height="500" alt="Resposta aberta Participante 4" src="https://github.com/user-attachments/assets/ca42ddd9-8235-44e0-bcce-6c8c317ddd28" /><br>
+  <sub><b>Figura 7 - Resposta aberta do Participante 4 (P4)</b></sub>
+</div>
 
-## 4. Considerações sobre a experiência do usuário.
+<br>
+
+#### P5: 
+<div align="center">
+  <img height="500" alt="Resposta aberta Participante 5" src="https://github.com/user-attachments/assets/6e4d4263-dbbd-41be-8f45-4fd6125f881c" /><br>
+  <sub><b>Figura 8 - Resposta aberta do Participante 5 (P5)</b></sub>
+</div>
+
+<br>
+
+### 4.2 Processo de codificação no ATLAS.ti
+
+<div align="center">
+  <img width="724" height="205" alt="Processo de codificação no ATLAS.ti parte 1" src="https://github.com/user-attachments/assets/324bd31c-6c73-4cf1-ada3-2d9f47d99f7c" /><br>
+  <sub><b>Figura 9 - Trechos codificados no software ATLAS.ti (Visão geral)</b></sub>
+</div>
+
+<br>
+
+<div align="center">
+  <img width="602" height="591" alt="Processo de codificação no ATLAS.ti parte 2" src="https://github.com/user-attachments/assets/3fa7215a-4b81-4de2-a659-76a4245aa0ce" /><br>
+  <sub><b>Figura 10 - Associação de códigos aos segmentos de texto no ATLAS.ti</b></sub>
+</div>
+
+<br>
+
+### 4.3 Códigos identificados
+
+<div align="center">
+  <img width="347" height="338" alt="Códigos identificados" src="https://github.com/user-attachments/assets/7ef30bac-3d18-476c-a878-c170f42e4e33" /><br>
+  <sub><b>Figura 11 - Lista de códigos identificados e frequências de groundedness</b></sub>
+</div>
+
+<br>
+
+### 4.4 Redes construídas no ATLAS.ti
+
+<div align="center">
+  <img width="1132" height="497" alt="Rede conceitual 1" src="https://github.com/user-attachments/assets/01819ae9-f96c-4643-9728-ad0493b381b3" /><br>
+  <sub><b>Figura 12 - Rede de estimulação</b></sub>
+</div>
+
+<br>
+
+<div align="center">
+  <img width="1122" height="468" alt="Rede conceitual 2" src="https://github.com/user-attachments/assets/1017ccc8-506e-47f4-9465-803dde0b8f34" /><br>
+  <sub><b>Figura 13 - Rede de confiabilidade</b></sub>
+</div>
+
+<br>
+
+<div align="center">
+  <img width="1045" height="463" alt="Rede conceitual 3" src="https://github.com/user-attachments/assets/2eed43a9-2bd2-45c1-a60f-8f5765f81a75" /><br>
+  <sub><b>Figura 14 - Rede de eficiência</b></sub>
+</div>
+
+<br>
+
+<div align="center">
+  <img width="732" height="443" alt="Rede conceitual 4" src="https://github.com/user-attachments/assets/54c9acdc-ab95-4303-9765-42b4670dc757" /><br>
+  <sub><b>Figura 15 - Rede de atratividade</b></sub>
+</div>
+
+<br>
+
+<div align="center">
+  <img width="637" height="418" alt="Rede conceitual 5" src="https://github.com/user-attachments/assets/46421b9f-462c-45d7-98bb-d52f8dd76a72" /><br>
+  <sub><b>Figura 16 - Rede de novidade</b></sub>
+</div>
+
+<br>
+
+---
+
+## 5. Considerações sobre a experiência do usuário
 
 ## Relatório de Avaliação de Usabilidade e UX
 
@@ -155,6 +235,4 @@ A experiência geral do usuário (UX) foi muito ruim: o site é confuso, complic
 ```text
 [ Navegação / Busca ] ──> [ Tela Poluída ] ──> [ Pressão para Comprar ] ──> [ Irritação e Desconfiança ]
 ```
-
-- **Quebra de regras de usabilidade:** O usuário perde a liberdade e o controle sobre o que faz, e o site não ajuda a evitar erros.
-- **Experiência negativa:** No fim da jornada (ou ao tentar chegar até o fim), o usuário se sente inseguro e insatisfeito com a plataforma.
+Concluindo, há uma quebra de regras de usabilidade. O usuário perde a liberdade e o controle sobre o que faz, e, o site não ajuda a evitar erros. Isso leva a uma experiência negativa no fim da jornada (ou ao tentar chegar até o fim), o usuário se sente inseguro e insatisfeito com a plataforma.
