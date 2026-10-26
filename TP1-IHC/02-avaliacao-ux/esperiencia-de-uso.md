@@ -42,19 +42,61 @@
    - Não enxergam a ferramenta como uma solução original ou inovadora em relação ao que já existe no mercado.
    - Percebem a tecnologia empregada como conservadora e pouco ousada no aspecto visual/estrutural.
 ## 3. Análise Quantitativa
-### Gráfico 1 — [Nome do gráfico]
-![Gráfico 1](imagens/grafico-01.png)
-Explicar o que o gráfico apresenta e discutir os resultados observados.
-### Gráfico 2 — [Nome do gráfico]
-![Gráfico 2](imagens/grafico-02.png)
-Explicar o que o gráfico apresenta e discutir os resultados observados.
-## 4. Análise qualitativa
+### Gráfico — [Distribuição de código entre documentos]
+<img width="820" height="442" alt="WhatsApp Image 2026-10-26 at 01 09 35" src="https://github.com/user-attachments/assets/536358d3-b16c-402f-adb8-34c12b4f7e9e" />
+
+
+---
+
+## 1. O que o gráfico apresenta
+
+* O gráfico exibe a **"Distribuição de código entre documentos"**, quantificando a frequência com que diferentes categorias de códigos qualitativos apareceram nas avaliações de usabilidade e nos feedbacks recolhidos junto aos participantes.
+
+
+* Ele mapeia tanto os problemas e barreiras enfrentados pelos utilizadores quanto os aspetos positivos relatados, permitindo visualizar de forma clara e estatística quais os temas mais recorrentes nos documentos analisados.
+
+
+
+---
+
+## 2. Discussão dos resultados observados
+
+* **Concentração Crítica (Interface Poluída):**
+* O código **"Interface poluída"** destaca-se de forma esmagadora com **10 ocorrências**, constituindo o principal gargalo e ponto crítico da avaliação.
+
+
+* Este resultado demonstra que o excesso de elementos visuais, a poluição visual ou a falta de organização no design afetam severamente a experiência geral e a perceção dos utilizadores.
+
+
+
+
+* **Dificuldades de Acesso e Compreensão:**
+* A segunda categoria com maior expressão é a **"Dificuldade de acesso e compreensão"**, com **2 ocorrências**, o que evidencia barreiras operacionais e cognitivas adicionais durante a navegação.
+
+
+
+
+* **Ocorrências Unitárias e Diversidade de Feedbacks:**
+* Todas as restantes categorias registaram exatamente **1 ocorrência** cada.
+
+
+* Este grupo diversificado inclui tanto pontos de atrito e aspetos a melhorar (tais como *Instruções para acesso ao produto*, *Melhor otimização do site*, *Melhorar a descrição dos produtos*, *Negação da compra singular* e *Produtos falsos*) como pontos positivos e validações de sucesso (tais como *Facilidade na procura de preços*, *Nenhum problema encontrado*, *Participante 3 A forma de procura*, *Participante 7 Fácil e satisfatório* e *Tarefas rápidas e práticas*).
+
+
+
+
+* **Conclusão da Análise:**
+* Os dados revelam que, embora existam múltiplos comentários e feedbacks pontuais dispersos pelo estudo, a usabilidade e a experiência do utilizador são fortemente penalizadas por questões visuais.
+
+
+* Torna-se assim indispensável priorizar a reformulação e a limpeza da interface para mitigar o principal problema reportado e elevar a qualidade global do produto.
+
+## 3. Análise qualitativa
 ### 3.1 Respostas abertas analisadas
 Apresente as respostas abertas coletadas no questionário, preferencialmente em sua forma original,
 organizadas por participante Essa seção servirá como registro dos dados brutos.
 ### 3.2 Processo de codificação no ATLAS.ti
-Inclua evidências do processo, como prints das citações associadas aos códigos, de forma que seja possível
-rastrear a origem de cada código no projeto.
+
 ### 3.3 Códigos identificados
 Apresente prints/imagens dos principais códigos criados durante a análise
 ### 3.4 Redes construídas no ATLAS.ti
