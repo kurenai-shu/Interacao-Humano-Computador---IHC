@@ -139,6 +139,22 @@
 
 <br>
 
+### P6:
+<div align="center">
+  <img width="1200" height="1600" alt="WhatsApp Image 2026-10-26 at 21 10 09" src="https://github.com/user-attachments/assets/c0baff32-ecfc-48ab-abac-40c0221aae71"/>
+  <sub><b>Figura 9 - Resposta aberta do Participante 6 (P6)</b></sub>
+</div>
+
+<br>
+
+### P7:
+<div align="center">
+  <img width="1200" height="1600" alt="WhatsApp Image 2026-10-26 at 21 10 09 (1)" src="https://github.com/user-attachments/assets/464cfbd1-6e55-4090-96b9-f8e65700f7c0"/>
+  <sub><b>Figura 10 - Resposta aberta do Participante 7 (P7)</b></sub>
+</div>
+
+<br>
+
 ### 4.2 Processo de codificação no ATLAS.ti
 
 <div align="center">
